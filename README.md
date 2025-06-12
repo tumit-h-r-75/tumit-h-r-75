@@ -72,13 +72,19 @@
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450" alt="coding gif"/>
   <br /><br />
 
-  <!-- Gaming GIF -->
-  <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="350" alt="gaming gif"/>
+  <p align="center">
+  <!-- Coding at Night -->
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350" alt="coding at night gif"/>
   <br /><br />
 
-  <!-- Watching Movie GIF -->
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="350" alt="movie gif"/>
+  <!-- Debugging Chaos -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="debugging gif"/>
   <br /><br />
+
+  <!-- Coffee + Coding -->
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350" alt="coffee coding gif"/>
+  <br /><br />
+</p>
 
 ---
 

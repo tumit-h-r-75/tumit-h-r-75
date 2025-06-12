@@ -2,7 +2,7 @@
 <h3 align="center">🚀 A passionate MERN Stack Developer from Bangladesh</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=React+Developer+💙;MERN+Stack+Expert+💻;Open+Source+Contributor+🌱;Lifelong+Learner+📚;&center=true&width=500&height=45&color=0D98BA&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0D98BA&center=true&vCenter=true&width=500&lines=React+Developer+💙;MERN+Stack+Expert+💻;Open+Source+Contributor+🌱;Lifelong+Learner+📚" alt="Typing SVG" />
 </p>
 
 ---
@@ -56,11 +56,11 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tumit-hasan&show_icons=true&theme=radical" alt="tumit-hasan" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tumit-h-r-75&show_icons=true&theme=radical" alt="tumit-hasan" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tumit-hasan&theme=radical" alt="tumit-hasan" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tumit-h-r-75&theme=radical" alt="tumit-hasan" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tumit-hasan&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tumit-h-r-75&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 ---

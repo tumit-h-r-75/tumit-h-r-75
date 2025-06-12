@@ -73,7 +73,7 @@
   <br /><br />
 
   <!-- Gaming GIF -->
-  <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="350" alt="gaming gif"/>
+  <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="350" alt="gaming gif"/>
   <br /><br />
 
   <!-- Watching Movie GIF -->

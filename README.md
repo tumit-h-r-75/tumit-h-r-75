@@ -9,7 +9,19 @@
 
 - 🔭 I’m currently working on: **Volunter Hub Fullstack Project**
 - 💬 Ask me about: **React, Firebase Auth, MongoDB, Express, Tailwind**
-- 📫 How to reach me: **tumithasan1@gmail.com**
+### 📫 How to reach me:
+
+<p align="left">
+  <a href="mailto:tumithasan1@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="28" />
+    <strong>tumithasan1@gmail.com</strong>
+  </a>
+  <br /><br />
+  <a href="https://wa.me/8801611960330" target="_blank">
+    <img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="28" />
+    <strong>WhatsApp: 01611960330</strong>
+  </a>
+</p>
 - ⚡ Fun fact: *I love debugging more than coding sometimes!*
 
 ---

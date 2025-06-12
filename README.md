@@ -80,10 +80,6 @@
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="350" alt="movie gif"/>
   <br /><br />
 
-  <!-- Night Walking GIF -->
-  <img src="https://media.giphy.com/media/3o6Mbd8VdzRPc2z3MQ/giphy.gif" width="350" alt="night walk gif"/>
-</p>
-
 ---
 
 ⭐️ Don't forget to star some of my repositories if you like them!  

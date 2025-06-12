@@ -73,15 +73,15 @@
   <br /><br />
 
   <!-- Gaming GIF -->
-  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="350" alt="gaming gif"/>
+  <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="350" alt="gaming gif"/>
   <br /><br />
 
   <!-- Watching Movie GIF -->
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="350" alt="movie gif"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="350" alt="movie gif"/>
   <br /><br />
 
   <!-- Night Walking GIF -->
-  <img src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" width="350" alt="night walk gif"/>
+  <img src="https://media.giphy.com/media/3o6Mbd8VdzRPc2z3MQ/giphy.gif" width="350" alt="night walk gif"/>
 </p>
 
 ---

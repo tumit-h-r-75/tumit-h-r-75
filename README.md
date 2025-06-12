@@ -7,7 +7,7 @@
 
 ---
 
-- 🔭 I’m currently working on: **Roommate Finder Fullstack Project**
+- 🔭 I’m currently working on: **Volunter Hub Fullstack Project**
 - 💬 Ask me about: **React, Firebase Auth, MongoDB, Express, Tailwind**
 - 📫 How to reach me: **tumithasan1@gmail.com**
 - ⚡ Fun fact: *I love debugging more than coding sometimes!*
@@ -68,7 +68,20 @@
 ### 🧠 Fun Animation:
 
 <p align="center">
+  <!-- Coding GIF -->
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450" alt="coding gif"/>
+  <br /><br />
+
+  <!-- Gaming GIF -->
+  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="350" alt="gaming gif"/>
+  <br /><br />
+
+  <!-- Watching Movie GIF -->
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="350" alt="movie gif"/>
+  <br /><br />
+
+  <!-- Night Walking GIF -->
+  <img src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" width="350" alt="night walk gif"/>
 </p>
 
 ---

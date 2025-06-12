@@ -11,17 +11,18 @@
 - 💬 Ask me about: **React, Firebase Auth, MongoDB, Express, Tailwind**
 ### 📫 How to reach me:
 
-<p align="left">
-  <a href="mailto:tumithasan1@gmail.com" target="_blank">
+<p align="center">
+  <a href="mailto:tumithasan1@gmail.com" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="28" />
-    <strong>tumithasan1@gmail.com</strong>
+    <span style="font-weight: bold; font-size: 16px; margin-left: 8px;">tumithasan1@gmail.com</span>
   </a>
   <br /><br />
-  <a href="https://wa.me/8801611960330" target="_blank">
+  <a href="https://wa.me/8801611960330" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="28" />
-    <strong>WhatsApp: 01611960330</strong>
+    <span style="font-weight: bold; font-size: 16px; margin-left: 8px;">WhatsApp: 01611960330</span>
   </a>
 </p>
+
 - ⚡ Fun fact: *I love debugging more than coding sometimes!*
 
 ---

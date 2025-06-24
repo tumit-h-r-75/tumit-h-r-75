@@ -61,15 +61,6 @@
 
 ---
 
-## 📂 Pinned Projects
-
-<p align="center">
-  <a href="https://github.com/tumit-h-r-75/volunteer-hub" target="_blank">
-    <img src="https://opengraph.githubassets.com/1/tumit-h-r-75/volunteer-hub" alt="Volunteer Hub" width="350" />
-  </a>
-</p>
-
----
 
 ## 🌐 Connect With Me
 

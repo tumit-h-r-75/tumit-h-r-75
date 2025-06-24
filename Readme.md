@@ -17,7 +17,7 @@
 📍 **Location:** Bangladesh  
 📧 **Email:** tumithasan1@gmail.com
 </br>
-📞 **Phone** 01611960330
+📞 **Phone:** 01611960330
 
 ---
 

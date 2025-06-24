@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm TUMIT HASAN</h1>
 <h3 align="center">🚀 MERN Stack Developer</h3>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/179020611?v=4" alt="Profile Picture" width="150" height="150" style="border-radius: 50%;" />
-</p>
 
 <p align="center">
   <img src="assets/banner.png" alt="Tumit Hasan Banner" />

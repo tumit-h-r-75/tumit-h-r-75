@@ -3,6 +3,9 @@
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/179020611?v=4" alt="Profile Picture" width="150" style="border-radius:50%;" />
+</p>
+
+<p align="center">
   <img src="assets/banner.png" alt="Tumit Hasan Banner" />
 </p>
 
@@ -21,7 +24,7 @@ Hello! I'm Tumit Hasan, a dedicated MERN Stack developer who loves creating perf
 
 🎓 Currently in final semester of Computer Science and Engineering at Satkhira Polytechnic Institute.<br><br>
 
-🛠️ Skills I Bring:<br><br>
+🛠️ Skills I Bring:<br>
 🌈 Frontend: HTML, CSS, JavaScript, React.js, Tailwind CSS<br>
 🛡️ Backend: Node.js, Express.js<br>
 🗃️ Database: MongoDB, Firebase Realtime Database<br>
@@ -33,25 +36,24 @@ Hello! I'm Tumit Hasan, a dedicated MERN Stack developer who loves creating perf
 
 🎮 Fun Fact: When I’m not coding, I love playing Free Fire on my MSI Emulator 🎮<br><br>
 
-🌟 Favorite Quote: “Never stop learning because life never stops teaching.”<br><br>
+🌟 Favorite Quote: “Never stop learning because life never stops teaching.”<br>
+🌟 Inspiration: Jhankar Mahbub<br><br>
 
-🌟 Inspiration: Jhankar Mahbub
-📍 **Location:** Bangladesh  
-
-📧 **Email:** tumithasan1@gmail.com 
-
-📞 **Phone:** 01611960330 
-</p>  
- 
+📍 Location: Bangladesh<br>
+📧 Email: <a href="mailto:tumithasan1@gmail.com">tumithasan1@gmail.com</a><br>
+📞 Phone: 01611960330
+</p>
 
 ---
 
 ## 🚀 What I'm Working On
 
-- 🔭 Building: **Volunteer Hub Fullstack Project**
-- ⚒️ Exploring: **Next.js**
-- 🧪 Learning: **Advanced backend security & authentication**
-- 🌐 Hosting Projects On: **Firebase, Vercel, Netlify**
+<p align="left">
+- 🔭 Building: <b>Volunteer Hub Fullstack Project</b><br>
+- ⚒️ Exploring: <b>Next.js</b><br>
+- 🧪 Learning: <b>Advanced backend security & authentication</b><br>
+- 🌐 Hosting Projects On: <b>Firebase, Vercel, Netlify</b>
+</p>
 
 ---
 
@@ -90,7 +92,6 @@ Hello! I'm Tumit Hasan, a dedicated MERN Stack developer who loves creating perf
 
 ---
 
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -113,14 +114,5 @@ Hello! I'm Tumit Hasan, a dedicated MERN Stack developer who loves creating perf
 
 ---
 
-## 📈 Visitor Count
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/tumit-h-r-75/count.svg" alt="visitor count" />
-</p>
-
----
-
 ⭐️ If you like my work, consider giving a star to my repositories!  
 🤝 Always open to collaborations and learning opportunities.
-

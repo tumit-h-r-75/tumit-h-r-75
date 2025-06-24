@@ -14,7 +14,29 @@
 
 ## 🧑‍💼 About Me
 
-🎯 I’m a passionate MERN Stack developer who loves to explore and learn new technologies.  
+<p align="left">
+💻 MERN Stack Developer | 🌍 Passionate about Modern Web Technologies | 🚀 Building Scalable & Efficient Web Apps<br><br>
+
+Hello! I'm Tumit Hasan, a dedicated MERN Stack developer who loves creating performant and user-friendly web applications. I enjoy working with both frontend and backend technologies to deliver full-stack solutions.<br><br>
+
+🎓 Currently in final semester of Computer Science and Engineering at Satkhira Polytechnic Institute.<br><br>
+
+🛠️ Skills I Bring:<br><br>
+🌈 Frontend: HTML, CSS, JavaScript, React.js, Tailwind CSS<br>
+🛡️ Backend: Node.js, Express.js<br>
+🗃️ Database: MongoDB, Firebase Realtime Database<br>
+🔐 Authentication & Security: JWT, Firebase Authentication<br><br>
+
+🎯 Currently focused on mastering Next.js and Redux for advanced frontend development.<br><br>
+
+🎨 Passionate about writing clean, maintainable code and building creative solutions that make a difference.<br><br>
+
+🎮 Fun Fact: When I’m not coding, I love playing Free Fire on my MSI Emulator 🎮<br><br>
+
+🌟 Favorite Quote: “Never stop learning because life never stops teaching.”<br><br>
+
+🌟 Inspiration: Jhankar Mahbub
+</p>  
 📍 **Location:** Bangladesh  
 📧 **Email:** tumithasan1@gmail.com  
 📞 **Phone:** 01611960330  

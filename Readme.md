@@ -36,10 +36,13 @@ Hello! I'm Tumit Hasan, a dedicated MERN Stack developer who loves creating perf
 🌟 Favorite Quote: “Never stop learning because life never stops teaching.”<br><br>
 
 🌟 Inspiration: Jhankar Mahbub
-</p>  
 📍 **Location:** Bangladesh  
-📧 **Email:** tumithasan1@gmail.com  
-📞 **Phone:** 01611960330  
+
+📧 **Email:** tumithasan1@gmail.com 
+
+📞 **Phone:** 01611960330 
+</p>  
+ 
 
 ---
 

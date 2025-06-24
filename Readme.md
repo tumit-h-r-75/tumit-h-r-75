@@ -1,4 +1,4 @@
-\  <h1 align="center">Hi 👋, I'm TUMIT HASAN</h1>
+<h1 align="center">Hi 👋, I'm TUMIT HASAN</h1>
 <h3 align="center">🚀 MERN Stack Developer</h3>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0D98BA&center=true&vCenter=true&width=500&lines=React+Developer+💙;MERN+Stack+💻;Open+Source+Contributor+🌱;Passionate+About+Learning+📚" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0D98BA&center=true&vCenter=true&width=500&lines=React+Developer+💙;MERN+Stack+💻;Open+Source+Contributor+🌱;Passionate+About+Learning+📚;Always+Coding+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
@@ -16,9 +16,8 @@
 
 🎯 I’m a passionate MERN Stack developer who loves to explore and learn new technologies.  
 📍 **Location:** Bangladesh  
-📧 **Email:** tumithasan1@gmail.com
-</br>
-📞 **Phone:** 01611960330
+📧 **Email:** tumithasan1@gmail.com  
+📞 **Phone:** 01611960330  
 
 ---
 
@@ -50,39 +49,58 @@
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://fb.com/tumit.hasan.rafi" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/tumit-hasan/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://discord.gg/tumit_hasan" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="mailto:tumithasan1@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://wa.me/8801611960330" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats
+## 🌟 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tumit-h-r-75&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
-<img src="https://github-readme-streak-stats.herokuapp.com?username=tumit-h-r-75&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?username=tumit-h-r-75&theme=radical" alt="GitHub Streak" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tumit-h-r-75&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
+## 📂 Pinned Projects
+
+<p align="center">
+  <a href="https://github.com/tumit-h-r-75/volunteer-hub" target="_blank">
+    <img src="https://opengraph.githubassets.com/1/tumit-h-r-75/volunteer-hub" alt="Volunteer Hub" width="350" />
+  </a>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://fb.com/tumit.hasan.rafi" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.linkedin.com/in/tumit-hasan/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://discord.gg/tumit_hasan" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="mailto:tumithasan1@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://wa.me/8801611960330" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
+
+---
+
+## 📈 Visitor Count
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/tumit-h-r-75/count.svg" alt="visitor count" />
+</p>
+
+---
+
 ⭐️ If you like my work, consider giving a star to my repositories!  
 🤝 Always open to collaborations and learning opportunities.
+

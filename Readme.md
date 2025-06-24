@@ -34,7 +34,7 @@ Hello! I'm Tumit Hasan, a dedicated MERN Stack developer who loves creating perf
 🎮 Fun Fact: When I’m not coding, I love playing Free Fire on my MSI Emulator 🎮<br><br>
 
 🌟 Favorite Quote: “Never stop learning because life never stops teaching.”<br>
-🌟 Inspiration: Jhankar Mahbub<br><br>
+🌟 Inspiration: **Jhankar Mahbub** ```and``` **Rasel Mridha** (he is my friend) <br><br>
 
 📍 Location: Bangladesh<br>
 📧 Email: <a href="mailto:tumithasan1@gmail.com">tumithasan1@gmail.com</a><br>

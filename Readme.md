@@ -2,6 +2,7 @@
 <h3 align="center">🚀 MERN Stack Developer</h3>
 
 <p align="center">
+  <img src="https://avatars.githubusercontent.com/u/tumit-h-r-75?v=4" alt="Profile Picture" width="150" style="border-radius:50%;" />
   <img src="assets/banner.png" alt="Tumit Hasan Banner" />
 </p>
 

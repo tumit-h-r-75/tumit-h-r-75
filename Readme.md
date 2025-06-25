@@ -78,9 +78,9 @@ Hello! I'm Tumit Hasan, a dedicated MERN Stack developer who loves creating perf
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tumit-h-r-75&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?username=tumit-h-r-75&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tumit-h-r-75&theme=radical" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?user=tumit-h-r-75&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tumit-h-r-75&layout=compact&theme=radical" alt="Top Languages" />
   <br/>
   <img src="https://github-profile-trophy.vercel.app?username=tumit-h-r-75&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <br/>

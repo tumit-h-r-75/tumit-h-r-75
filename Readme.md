@@ -31,7 +31,7 @@ Hello! I'm Tumit Hasan, a dedicated MERN Stack developer who loves creating perf
 
 🎨 Passionate about writing clean, maintainable code and building creative solutions that make a difference.<br><br>
 
-🏏 Fun Fact: When I’m not coding, I love playing ```cricket```<br><br>
+```🏏 extra curricular activities```: When I’m not coding, I love playing ```cricket```<br><br>
 
 🌟 Favorite Quote: “Never stop learning because life never stops teaching.”<br>
 🌟 Inspiration: **Jhankar Mahbub** ```and``` **Rasel Mridha** (he is my friend) <br><br>

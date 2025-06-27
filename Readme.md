@@ -111,5 +111,5 @@ Hello! I'm Tumit Hasan, a dedicated MERN Stack developer who loves creating perf
 
 ---
 
-⭐️ If you like my work, consider giving a star to my repositories!  
+```⭐️ If you like my work, consider giving a star to my repositories!```  
 🤝 Always open to collaborations and learning opportunities.

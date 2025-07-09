@@ -11,7 +11,7 @@
 
 ---
 
-## 🧑‍💼 About Me
+## 🧑‍💼 About Me.
 
 <p align="left">
 💻 MERN Stack Developer | 🌍 Passionate about Modern Web Technologies | 🚀 Building Scalable & Efficient Web Apps<br><br>

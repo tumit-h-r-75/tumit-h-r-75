@@ -1,5 +1,21 @@
 <div align="center">
 
+<style>
+  @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+  @keyframes bounce { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-10px); } }
+  @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.1); } }
+  @keyframes wave { 0%, 100% { transform: rotate(0deg); } 25% { transform: rotate(14deg); } 75% { transform: rotate(-14deg); } }
+  @keyframes wiggle { 0%, 100% { transform: skewX(0deg); } 25% { transform: skewX(-5deg); } 75% { transform: skewX(5deg); } }
+  @keyframes glow { 0%, 100% { text-shadow: 0 0 5px rgba(13, 152, 186, 0.5); } 50% { text-shadow: 0 0 20px rgba(0, 212, 255, 1); } }
+  
+  .spin { display: inline-block; animation: spin 2s linear infinite; }
+  .bounce { display: inline-block; animation: bounce 1.5s ease-in-out infinite; }
+  .pulse { display: inline-block; animation: pulse 2s ease-in-out infinite; }
+  .wave { display: inline-block; animation: wave 1s ease-in-out infinite; transform-origin: 70% 70%; }
+  .wiggle { display: inline-block; animation: wiggle 0.5s ease-in-out infinite; }
+  .glow { animation: glow 1.5s ease-in-out infinite; }
+</style>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D98BA,50:1a1a2e,100:0D98BA&height=230&section=header&text=%E2%9C%A8%20Tumit%20Hasan%20%E2%9C%A8&fontSize=58&fontColor=00D4FF&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%C2%B7%20Next.js%20%C2%B7%20WordPress&descAlignY=55&descSize=18">
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,50:0D98BA,100:87CEEB&height=230&section=header&text=%E2%9C%A8%20Tumit%20Hasan%20%E2%9C%A8&fontSize=58&fontColor=1a1a2e&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%C2%B7%20Next.js%20%C2%B7%20WordPress&descAlignY=55&descSize=18">
@@ -20,27 +36,27 @@
 
 ---
 
-### 🧑‍💻 About Me
+### <span class="bounce">🧑‍💻</span> About Me
 
 <img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="140" />
 
-- 🎓 Final-semester CSE student at **Satkhira Polytechnic Institute**
-- 💻 A **Full Stack Developer** working across **MERN, Next.js, and WordPress** to build performant, user-friendly web apps
-- 🏢 **1+ year of professional experience at Exprovia**
-- 📍 Based in **Jashore, Khulna, Bangladesh**
-- 🧩 Comfortable across the full spectrum: custom React/Next.js apps, WordPress theme/plugin customization, and full backend development
-- 🔭 Currently building: **Volunteer Hub** — a fullstack MERN project
-- 🌱 Exploring: advanced backend security & authentication
-- 🌐 Deploying on: **Firebase, Vercel, Netlify**
-- 🏏 Off the keyboard, you'll find me playing **cricket**
-- 🌟 Inspired by **Jhankar Mahbub** and **Rasel Mridha** (mentor & friend)
-- 💬 Favorite quote: *"Never stop learning because life never stops teaching."*
+- <span class="pulse">🎓</span> Final-semester CSE student at **Satkhira Polytechnic Institute**
+- <span class="spin">💻</span> A **Full Stack Developer** working across **MERN, Next.js, and WordPress** to build performant, user-friendly web apps
+- <span class="bounce">🏢</span> **1+ year of professional experience at Exprovia**
+- <span class="bounce">📍</span> Based in **Jashore, Khulna, Bangladesh**
+- <span class="pulse">🧩</span> Comfortable across the full spectrum: custom React/Next.js apps, WordPress theme/plugin customization, and full backend development
+- <span class="spin">🔭</span> Currently building: **Volunteer Hub** — a fullstack MERN project
+- <span class="pulse">🌱</span> Exploring: advanced backend security & authentication
+- <span class="spin">🌐</span> Deploying on: **Firebase, Vercel, Netlify**
+- <span class="wave">🏏</span> Off the keyboard, you'll find me playing **cricket**
+- <span class="glow">🌟</span> Inspired by **Jhankar Mahbub** and **Rasel Mridha** (mentor & friend)
+- <span class="wiggle">💬</span> Favorite quote: *"Never stop learning because life never stops teaching."*
 
 <br clear="right"/>
 
 ---
 
-### 🌐 Portfolio & Links
+### <span class="spin">🌐</span> Portfolio & Links
 
 <p align="center">
   <a href="https://my-protfolio-tumit.web.app/" target="_blank">
@@ -53,7 +69,7 @@
 
 ---
 
-### 📫 Reach Me
+### <span class="bounce">📫</span> Reach Me
 
 <p align="left">
   <a href="mailto:tumithasan1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -64,18 +80,18 @@
   <a href="https://discord.gg/tumit_hasan"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
-📍 **Location:** Jashore, Khulna, Bangladesh &nbsp;|&nbsp; 📞 **Phone:** 01611960330
+<span class="bounce">📍</span> **Location:** Jashore, Khulna, Bangladesh &nbsp;|&nbsp; <span class="pulse">📞</span> **Phone:** 01611960330
 
 ---
 
-### 💼 Experience
+### <span class="bounce">💼</span> Experience
 
 💻 **Full Stack Developer** — **Exprovia** &nbsp;·&nbsp; *1+ year*
 Working on full-stack web development spanning **MERN stack applications, Next.js projects, and WordPress-based client solutions**, contributing to real-world production builds and client-facing deliverables.
 
 ---
 
-### 🛠️ Tech Stack
+### <span class="spin">🛠️</span> Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,firebase,wordpress,tailwind,git,figma,vscode" />
@@ -90,7 +106,7 @@ Working on full-stack web development spanning **MERN stack applications, Next.j
 
 ---
 
-### 📊 GitHub Analytics
+### <span class="pulse">📊</span> GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tumit-h-r-75&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github" width="49%" />
@@ -111,7 +127,7 @@ Working on full-stack web development spanning **MERN stack applications, Next.j
 
 ---
 
-### 🐍 Contribution Snake
+### <span class="wiggle">🐍</span> Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/tumit-h-r-75/tumit-h-r-75/output/github-contribution-grid-snake-dark.svg" width="95%" />
@@ -119,7 +135,7 @@ Working on full-stack web development spanning **MERN stack applications, Next.j
 
 ---
 
-### 🌌 3D Contribution Graph
+### <span class="spin">🌌</span> 3D Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/tumit-h-r-75/tumit-h-r-75/master/profile-3d-contrib/profile-night-rainbow.svg" width="95%" />
@@ -127,7 +143,7 @@ Working on full-stack web development spanning **MERN stack applications, Next.j
 
 ---
 
-### ⏱️ Coding Activity (WakaTime)
+### <span class="pulse">⏱️</span> Coding Activity (WakaTime)
 
 <p align="center">
   <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg" alt="WakaTime badge" />
@@ -137,7 +153,7 @@ Working on full-stack web development spanning **MERN stack applications, Next.j
 
 ---
 
-### 📈 Full Metrics Dashboard
+### <span class="bounce">📈</span> Full Metrics Dashboard
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/tumit-h-r-75/tumit-h-r-75/main/github-metrics.svg" width="95%" />
@@ -145,7 +161,7 @@ Working on full-stack web development spanning **MERN stack applications, Next.j
 
 ---
 
-### 📌 Featured Projects
+### <span class="pulse">📌</span> Featured Projects
 
 | Project | Description | Tech |
 |---|---|---|
@@ -159,7 +175,7 @@ Working on full-stack web development spanning **MERN stack applications, Next.j
 
 ---
 
-### 🏆 GitHub Achievements
+### <span class="glow">🏆</span> GitHub Achievements
 
 <p align="center">
   <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="80" alt="Pull Shark x2" />

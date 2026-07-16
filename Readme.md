@@ -27,6 +27,43 @@
     50% { opacity: 0.7; }
   }
   
+  @keyframes scanline {
+    0% { top: 0%; }
+    100% { top: 100%; }
+  }
+  
+  @keyframes glitch {
+    0%, 100% { clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%); }
+    20% { clip-path: polygon(0 10%, 100% 15%, 100% 85%, 0 90%); }
+    40% { clip-path: polygon(0 5%, 100% 10%, 100% 90%, 0 95%); }
+    60% { clip-path: polygon(0 8%, 100% 12%, 100% 88%, 0 92%); }
+    80% { clip-path: polygon(0 15%, 100% 20%, 100% 80%, 0 85%); }
+  }
+  
+  @keyframes dataflow {
+    0% { transform: translateY(-100%); opacity: 0; }
+    10% { opacity: 1; }
+    90% { opacity: 1; }
+    100% { transform: translateY(100%); opacity: 0; }
+  }
+  
+  .hero-container {
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .scan-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 4px;
+    background: linear-gradient(to bottom, rgba(0, 212, 255, 0.8), transparent);
+    box-shadow: 0 0 15px rgba(0, 212, 255, 0.6);
+    animation: scanline 6s linear infinite;
+    z-index: 10;
+  }
+  
   .hero-title {
     font-size: 3.5em;
     font-weight: 900;
@@ -35,9 +72,10 @@
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
-    animation: gradientShift 4s ease infinite, glow 3s ease-in-out infinite;
+    animation: gradientShift 4s ease infinite, glow 3s ease-in-out infinite, glitch 8s ease-in-out infinite;
     margin: 20px 0;
     letter-spacing: 2px;
+    position: relative;
   }
   
   .hero-subtitle {
@@ -45,6 +83,7 @@
     animation: slideIn 1s ease-out, float 3s ease-in-out infinite;
     color: #0D98BA;
     margin: 20px 0;
+    position: relative;
   }
   
   .stats-container {
@@ -53,20 +92,56 @@
     justify-content: center;
     flex-wrap: wrap;
     animation: slideIn 1.5s ease-out;
+    position: relative;
   }
   
   .stat-badge {
     animation: pulse 2s ease-in-out infinite;
+    transition: all 0.3s ease;
+  }
+  
+  .stat-badge:hover {
+    transform: scale(1.1);
+    filter: brightness(1.2);
   }
 </style>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D98BA,50:1a1a2e,100:0D98BA&height=200&section=header&text=&animation=fadeIn">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,50:0D98BA,100:87CEEB&height=200&section=header&text=&animation=fadeIn">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D98BA,50:1a1a2e,100:0D98BA&height=200&section=header&text=&animation=fadeIn" width="100%"/>
-</picture>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const tl = gsap.timeline({ repeat: -1 });
+    
+    tl.to('.hero-title', {
+      duration: 0.3,
+      opacity: 0.7,
+      ease: 'power1.inOut'
+    }, 0)
+    .to('.hero-title', {
+      duration: 0.3,
+      opacity: 1,
+      ease: 'power1.inOut'
+    }, 0.3)
+    
+    gsap.from('.stat-badge', {
+      duration: 1,
+      opacity: 0,
+      y: 20,
+      stagger: 0.2,
+      ease: 'back.out'
+    });
+  });
+</script>
 
-<h1 class="hero-title">✨ Tumit Hasan ✨</h1>
+<div class="hero-container">
+  <div class="scan-overlay"></div>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D98BA,50:1a1a2e,100:0D98BA&height=200&section=header&text=&animation=fadeIn">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,50:0D98BA,100:87CEEB&height=200&section=header&text=&animation=fadeIn">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D98BA,50:1a1a2e,100:0D98BA&height=200&section=header&text=&animation=fadeIn" width="100%"/>
+  </picture>
+
+  <h1 class="hero-title">✨ Tumit Hasan ✨</h1>
 
 <p class="hero-subtitle">
   🚀 Full Stack Developer | MERN · Next.js · WordPress
@@ -82,13 +157,12 @@
   <a href="https://github.com/tumit-h-r-75?tab=repositories"><img class="stat-badge" src="https://img.shields.io/badge/dynamic/json?color=0d98ba&label=📦+Repositories&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftumit-h-r-75&style=flat-square" alt="repos" /></a>
 </div>
 
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0D98BA&height=60&section=custom&animation=fadeIn">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:0D98BA&height=60&section=custom&animation=fadeIn">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0D98BA&height=60&section=custom&animation=fadeIn" width="100%"/>
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0D98BA&height=60&section=custom&animation=fadeIn">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:0D98BA&height=60&section=custom&animation=fadeIn">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0D98BA&height=60&section=custom&animation=fadeIn" width="100%"/>
+  </picture>
+</div>
 
 </div>
 

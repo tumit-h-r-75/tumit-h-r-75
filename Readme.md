@@ -1,18 +1,94 @@
 <div align="center">
 
+<style>
+  @keyframes gradientShift {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+  }
+  
+  @keyframes float {
+    0%, 100% { transform: translateY(0px); }
+    50% { transform: translateY(-20px); }
+  }
+  
+  @keyframes glow {
+    0%, 100% { text-shadow: 0 0 10px rgba(13, 152, 186, 0.5), 0 0 20px rgba(13, 152, 186, 0.3); }
+    50% { text-shadow: 0 0 20px rgba(13, 152, 186, 0.8), 0 0 40px rgba(13, 152, 186, 0.5), 0 0 60px rgba(13, 152, 186, 0.3); }
+  }
+  
+  @keyframes slideIn {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  
+  @keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.7; }
+  }
+  
+  .hero-title {
+    font-size: 3.5em;
+    font-weight: 900;
+    background: linear-gradient(45deg, #0D98BA, #00D4FF, #0D98BA);
+    background-size: 300% 300%;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    animation: gradientShift 4s ease infinite, glow 3s ease-in-out infinite;
+    margin: 20px 0;
+    letter-spacing: 2px;
+  }
+  
+  .hero-subtitle {
+    font-size: 1.8em;
+    animation: slideIn 1s ease-out, float 3s ease-in-out infinite;
+    color: #0D98BA;
+    margin: 20px 0;
+  }
+  
+  .stats-container {
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    flex-wrap: wrap;
+    animation: slideIn 1.5s ease-out;
+  }
+  
+  .stat-badge {
+    animation: pulse 2s ease-in-out infinite;
+  }
+</style>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D98BA,50:1a1a2e,100:0D98BA&height=230&section=header&text=Tumit%20Hasan&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%C2%B7%20Next.js%20%C2%B7%20WordPress&descAlignY=55&descSize=18">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,50:0D98BA,100:87CEEB&height=230&section=header&text=Tumit%20Hasan&fontSize=62&fontColor=1a1a2e&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%C2%B7%20Next.js%20%C2%B7%20WordPress&descAlignY=55&descSize=18">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D98BA,50:1a1a2e,100:0D98BA&height=230&section=header&text=Tumit%20Hasan&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%C2%B7%20Next.js%20%C2%B7%20WordPress&descAlignY=55&descSize=18" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D98BA,50:1a1a2e,100:0D98BA&height=200&section=header&text=&animation=fadeIn">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,50:0D98BA,100:87CEEB&height=200&section=header&text=&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D98BA,50:1a1a2e,100:0D98BA&height=200&section=header&text=&animation=fadeIn" width="100%"/>
 </picture>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0D98BA&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%92%99;MERN+%2B+Next.js+%2B+WordPress+%F0%9F%92%BB;1%2B+Year+Experience+%40+Exprovia+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%B1;Always+Learning%2C+Always+Coding+%F0%9F%93%9A" alt="Typing SVG" />
+<h1 class="hero-title">✨ Tumit Hasan ✨</h1>
+
+<p class="hero-subtitle">
+  🚀 Full Stack Developer | MERN · Next.js · WordPress
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=💎+Crafting+Digital+Solutions;⚡+Building+Scalable+Web+Apps;🎯+3%2B+Years+of+Coding+Journey;🌟+From+Idea+to+Production;💡+Always+Innovating" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=tumit-h-r-75&label=Profile%20Views&color=0d98ba&style=flat" alt="profile views" />
-<img src="https://img.shields.io/github/followers/tumit-h-r-75?label=Followers&style=flat&color=0d98ba" alt="followers" />
-<a href="https://github.com/tumit-h-r-75?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?color=0d98ba&label=Repositories&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftumit-h-r-75" alt="repos" /></a>
+<div class="stats-container">
+  <img class="stat-badge" src="https://komarev.com/ghpvc/?username=tumit-h-r-75&label=👀+Views&color=0d98ba&style=flat-square" alt="profile views" />
+  <img class="stat-badge" src="https://img.shields.io/github/followers/tumit-h-r-75?label=🤝+Followers&style=flat-square&color=0d98ba" alt="followers" />
+  <a href="https://github.com/tumit-h-r-75?tab=repositories"><img class="stat-badge" src="https://img.shields.io/badge/dynamic/json?color=0d98ba&label=📦+Repositories&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftumit-h-r-75&style=flat-square" alt="repos" /></a>
+</div>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0D98BA&height=60&section=custom&animation=fadeIn">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:0D98BA&height=60&section=custom&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0D98BA&height=60&section=custom&animation=fadeIn" width="100%"/>
+</picture>
 
 </div>
 

@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D98BA,50:1a1a2e,100:0D98BA&height=230&section=header&text=Tumit%20Hasan&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%C2%B7%20Next.js%20%C2%B7%20WordPress&descAlignY=55&descSize=18" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D98BA,50:1a1a2e,100:0D98BA&height=230&section=header&text=Tumit%20Hasan&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%C2%B7%20Next.js%20%C2%B7%20WordPress&descAlignY=55&descSize=18">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,50:0D98BA,100:87CEEB&height=230&section=header&text=Tumit%20Hasan&fontSize=62&fontColor=1a1a2e&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%C2%B7%20Next.js%20%C2%B7%20WordPress&descAlignY=55&descSize=18">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D98BA,50:1a1a2e,100:0D98BA&height=230&section=header&text=Tumit%20Hasan&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%C2%B7%20Next.js%20%C2%B7%20WordPress&descAlignY=55&descSize=18" width="100%"/>
+</picture>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0D98BA&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%92%99;MERN+%2B+Next.js+%2B+WordPress+%F0%9F%92%BB;1%2B+Year+Experience+%40+Exprovia+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%B1;Always+Learning%2C+Always+Coding+%F0%9F%93%9A" alt="Typing SVG" />
 
@@ -112,6 +116,36 @@ Working on full-stack web development spanning **MERN stack applications, Next.j
 </p>
 
 > 💡 To activate this animation: add the **Platane/snk** GitHub Action to your `tumit-h-r-75/tumit-h-r-75` profile repo. It regenerates this snake SVG from your contribution graph on every push.
+
+---
+
+### 🌌 3D Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tumit-h-r-75/tumit-h-r-75/master/profile-3d-contrib/profile-night-rainbow.svg" width="95%" />
+</p>
+
+> 💡 To activate this: add the **[yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib)** GitHub Action to your `tumit-h-r-75/tumit-h-r-75` profile repo. It renders your contribution graph as a rotating 3D isometric animation and commits the SVG automatically on a schedule.
+
+---
+
+### ⏱️ Coding Activity (WakaTime)
+
+<p align="center">
+  <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg" alt="WakaTime badge" />
+</p>
+
+> 💡 To activate this: create a free account at [wakatime.com](https://wakatime.com), install the WakaTime extension in VS Code, and replace `YOUR_WAKATIME_USER_ID` above with your own user ID from your WakaTime profile settings. It'll then show your live weekly coding hours and top languages, always up to date.
+
+---
+
+### 📈 Full Metrics Dashboard
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tumit-h-r-75/tumit-h-r-75/main/github-metrics.svg" width="95%" />
+</p>
+
+> 💡 To activate this: add the **[lowlighter/metrics](https://github.com/lowlighter/metrics)** GitHub Action to your `tumit-h-r-75/tumit-h-r-75` profile repo. It's the most powerful all-in-one dashboard — combining calendar heatmap, languages, activity, and more into one animated, auto-updating SVG.
 
 ---
 

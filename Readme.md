@@ -130,10 +130,10 @@ Working on full-stack web development spanning **MERN stack applications, Next.j
 ### ⏱️ Coding Activity (WakaTime)
 
 <p align="center">
-  <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg" alt="WakaTime badge" />
+  <img src="https://wakatime.com/badge/user/tumit-h-r-75.svg" alt="WakaTime badge" />
 </p>
 
-> 💡 এটা চালু করতে: [wakatime.com](https://wakatime.com)-এ ফ্রি অ্যাকাউন্ট খুলুন, VS Code-এ WakaTime extension বসান, তারপর উপরের `YOUR_WAKATIME_USER_ID` জায়গায় আপনার নিজের user ID বসিয়ে দিন।
+> 💡 **Live coding stats**: Weekly hours tracked automatically from VS Code via WakaTime extension. Badge updates daily with your latest coding metrics!
 
 ---
 

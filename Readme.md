@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D98BA,50:1a1a2e,100:0D98BA&height=230&section=header&text=Tumit%20Hasan&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20Building%20Scalable%20Web%20Apps&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D98BA,50:1a1a2e,100:0D98BA&height=230&section=header&text=Tumit%20Hasan&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%C2%B7%20Next.js%20%C2%B7%20WordPress&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0D98BA&center=true&vCenter=true&width=650&lines=React.js+%2B+Node.js+Developer+%F0%9F%92%99;MERN+Stack+Enthusiast+%F0%9F%92%BB;Building+Scalable+%26+Efficient+Web+Apps+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%B1;Always+Learning%2C+Always+Coding+%F0%9F%93%9A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0D98BA&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%92%99;MERN+%2B+Next.js+%2B+WordPress+%F0%9F%92%BB;1%2B+Year+Experience+%40+Exprovia+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%B1;Always+Learning%2C+Always+Coding+%F0%9F%93%9A" alt="Typing SVG" />
 
 <br/>
 
@@ -19,10 +19,10 @@
 <img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="140" />
 
 - 🎓 Final-semester CSE student at **Satkhira Polytechnic Institute**
-- 💻 A dedicated **MERN Stack Developer** specializing in performant, user-friendly full-stack web apps
-- 🏢 Associated with **Exprovia**
+- 💻 A **Full Stack Developer** working across **MERN, Next.js, and WordPress** to build performant, user-friendly web apps
+- 🏢 **1+ year of professional experience at Exprovia**
 - 📍 Based in **Jashore, Khulna, Bangladesh**
-- 🎯 Currently sharpening skills in **Next.js** and **Redux**
+- 🧩 Comfortable across the full spectrum: custom React/Next.js apps, WordPress theme/plugin customization, and full backend development
 - 🔭 Currently building: **Volunteer Hub** — a fullstack MERN project
 - 🌱 Exploring: advanced backend security & authentication
 - 🌐 Deploying on: **Firebase, Vercel, Netlify**
@@ -62,14 +62,22 @@
 
 ---
 
+### 💼 Experience
+
+**Full Stack Developer** — **Exprovia** &nbsp;·&nbsp; *1+ year*
+Working on full-stack web development spanning **MERN stack applications, Next.js projects, and WordPress-based client solutions**, contributing to real-world production builds and client-facing deliverables.
+
+---
+
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,tailwind,git,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,firebase,wordpress,tailwind,git,figma,vscode" />
 </p>
 
-**Frontend** &nbsp;`HTML5` `CSS3` `JavaScript` `React.js` `Tailwind CSS`
+**Frontend** &nbsp;`HTML5` `CSS3` `JavaScript` `React.js` `Next.js` `Tailwind CSS`
 **Backend** &nbsp;`Node.js` `Express.js`
+**CMS** &nbsp;`WordPress` (theme & plugin customization, Elementor, WooCommerce)
 **Database** &nbsp;`MongoDB` `Firebase Realtime Database`
 **Auth & Security** &nbsp;`JWT` `Firebase Authentication`
 **Tools** &nbsp;`Git` `Figma` `VS Code`

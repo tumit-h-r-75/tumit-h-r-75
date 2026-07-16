@@ -1,21 +1,5 @@
 <div align="center">
 
-<style>
-  @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
-  @keyframes bounce { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-10px); } }
-  @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.1); } }
-  @keyframes wave { 0%, 100% { transform: rotate(0deg); } 25% { transform: rotate(14deg); } 75% { transform: rotate(-14deg); } }
-  @keyframes wiggle { 0%, 100% { transform: skewX(0deg); } 25% { transform: skewX(-5deg); } 75% { transform: skewX(5deg); } }
-  @keyframes glow { 0%, 100% { text-shadow: 0 0 5px rgba(13, 152, 186, 0.5); } 50% { text-shadow: 0 0 20px rgba(0, 212, 255, 1); } }
-  
-  .spin { display: inline-block; animation: spin 2s linear infinite; }
-  .bounce { display: inline-block; animation: bounce 1.5s ease-in-out infinite; }
-  .pulse { display: inline-block; animation: pulse 2s ease-in-out infinite; }
-  .wave { display: inline-block; animation: wave 1s ease-in-out infinite; transform-origin: 70% 70%; }
-  .wiggle { display: inline-block; animation: wiggle 0.5s ease-in-out infinite; }
-  .glow { animation: glow 1.5s ease-in-out infinite; }
-</style>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D98BA,50:1a1a2e,100:0D98BA&height=230&section=header&text=%E2%9C%A8%20Tumit%20Hasan%20%E2%9C%A8&fontSize=58&fontColor=00D4FF&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%C2%B7%20Next.js%20%C2%B7%20WordPress&descAlignY=55&descSize=18">
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,50:0D98BA,100:87CEEB&height=230&section=header&text=%E2%9C%A8%20Tumit%20Hasan%20%E2%9C%A8&fontSize=58&fontColor=1a1a2e&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%C2%B7%20Next.js%20%C2%B7%20WordPress&descAlignY=55&descSize=18">
@@ -26,9 +10,9 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=tumit-h-r-75&label=👀+Views&color=0d98ba&style=flat-square" alt="profile views" />
-<img src="https://img.shields.io/github/followers/tumit-h-r-75?label=🤝+Followers&style=flat-square&color=0d98ba" alt="followers" />
-<a href="https://github.com/tumit-h-r-75?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?color=0d98ba&label=📦+Repositories&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftumit-h-r-75&style=flat-square" alt="repos" /></a>
+<img src="https://komarev.com/ghpvc/?username=tumit-h-r-75&label=%F0%9F%91%80+Views&color=0d98ba&style=flat-square" alt="profile views" />
+<img src="https://img.shields.io/github/followers/tumit-h-r-75?label=%F0%9F%A4%9D+Followers&style=flat-square&color=0d98ba" alt="followers" />
+<a href="https://github.com/tumit-h-r-75?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?color=0d98ba&label=%F0%9F%93%A6+Repositories&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftumit-h-r-75&style=flat-square" alt="repos" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0D98BA&height=60&section=footer" width="100%"/>
 
@@ -36,27 +20,27 @@
 
 ---
 
-### <span class="bounce">🧑‍💻</span> About Me
+### 🧑‍💻 About Me
 
 <img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="140" />
 
-- <span class="pulse">🎓</span> Final-semester CSE student at **Satkhira Polytechnic Institute**
-- <span class="spin">💻</span> A **Full Stack Developer** working across **MERN, Next.js, and WordPress** to build performant, user-friendly web apps
-- <span class="bounce">🏢</span> **1+ year of professional experience at Exprovia**
-- <span class="bounce">📍</span> Based in **Jashore, Khulna, Bangladesh**
-- <span class="pulse">🧩</span> Comfortable across the full spectrum: custom React/Next.js apps, WordPress theme/plugin customization, and full backend development
-- <span class="spin">🔭</span> Currently building: **Volunteer Hub** — a fullstack MERN project
-- <span class="pulse">🌱</span> Exploring: advanced backend security & authentication
-- <span class="spin">🌐</span> Deploying on: **Firebase, Vercel, Netlify**
-- <span class="wave">🏏</span> Off the keyboard, you'll find me playing **cricket**
-- <span class="glow">🌟</span> Inspired by **Jhankar Mahbub** and **Rasel Mridha** (mentor & friend)
-- <span class="wiggle">💬</span> Favorite quote: *"Never stop learning because life never stops teaching."*
+- 🎓 Final-semester CSE student at **Satkhira Polytechnic Institute**
+- 💻 A **Full Stack Developer** working across **MERN, Next.js, and WordPress** to build performant, user-friendly web apps
+- 🏢 **1+ year of professional experience at Exprovia**
+- 📍 Based in **Jashore, Khulna, Bangladesh**
+- 🧩 Comfortable across the full spectrum: custom React/Next.js apps, WordPress theme/plugin customization, and full backend development
+- 🔭 Currently building: **Volunteer Hub** — a fullstack MERN project
+- 🌱 Exploring: advanced backend security & authentication
+- 🌐 Deploying on: **Firebase, Vercel, Netlify**
+- 🏏 Off the keyboard, you'll find me playing **cricket**
+- 🌟 Inspired by **Jhankar Mahbub** and **Rasel Mridha** (mentor & friend)
+- 💬 Favorite quote: *"Never stop learning because life never stops teaching."*
 
 <br clear="right"/>
 
 ---
 
-### <span class="spin">🌐</span> Portfolio & Links
+### 🌐 Portfolio & Links
 
 <p align="center">
   <a href="https://my-protfolio-tumit.web.app/" target="_blank">
@@ -69,7 +53,7 @@
 
 ---
 
-### <span class="bounce">📫</span> Reach Me
+### 📫 Reach Me
 
 <p align="left">
   <a href="mailto:tumithasan1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -80,18 +64,18 @@
   <a href="https://discord.gg/tumit_hasan"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
-<span class="bounce">📍</span> **Location:** Jashore, Khulna, Bangladesh &nbsp;|&nbsp; <span class="pulse">📞</span> **Phone:** 01611960330
+📍 **Location:** Jashore, Khulna, Bangladesh &nbsp;|&nbsp; 📞 **Phone:** 01611960330
 
 ---
 
-### <span class="bounce">💼</span> Experience
+### 💼 Experience
 
-💻 **Full Stack Developer** — **Exprovia** &nbsp;·&nbsp; *1+ year*
+**Full Stack Developer** — **Exprovia** &nbsp;·&nbsp; *1+ year*
 Working on full-stack web development spanning **MERN stack applications, Next.js projects, and WordPress-based client solutions**, contributing to real-world production builds and client-facing deliverables.
 
 ---
 
-### <span class="spin">🛠️</span> Tech Stack
+### 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,firebase,wordpress,tailwind,git,figma,vscode" />
@@ -106,7 +90,7 @@ Working on full-stack web development spanning **MERN stack applications, Next.j
 
 ---
 
-### <span class="pulse">📊</span> GitHub Analytics
+### 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tumit-h-r-75&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github" width="49%" />
@@ -127,7 +111,7 @@ Working on full-stack web development spanning **MERN stack applications, Next.j
 
 ---
 
-### <span class="wiggle">🐍</span> Contribution Snake
+### 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/tumit-h-r-75/tumit-h-r-75/output/github-contribution-grid-snake-dark.svg" width="95%" />
@@ -135,7 +119,7 @@ Working on full-stack web development spanning **MERN stack applications, Next.j
 
 ---
 
-### <span class="spin">🌌</span> 3D Contribution Graph
+### 🌌 3D Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/tumit-h-r-75/tumit-h-r-75/master/profile-3d-contrib/profile-night-rainbow.svg" width="95%" />
@@ -143,17 +127,17 @@ Working on full-stack web development spanning **MERN stack applications, Next.j
 
 ---
 
-### <span class="pulse">⏱️</span> Coding Activity (WakaTime)
+### ⏱️ Coding Activity (WakaTime)
 
 <p align="center">
   <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg" alt="WakaTime badge" />
 </p>
 
-> 💡 এটা চালু করতে: [wakatime.com](https://wakatime.com)-এ ফ্রি অ্যাকাউন্ট খুলুন, VS Code-এ WakaTime extension বসান, তারপর উপরের `YOUR_WAKATIME_USER_ID` জায়গায় আপনার নিজের user ID বসিয়ে দিন (WakaTime প্রোফাইল সেটিংসে পাবেন)।
+> 💡 এটা চালু করতে: [wakatime.com](https://wakatime.com)-এ ফ্রি অ্যাকাউন্ট খুলুন, VS Code-এ WakaTime extension বসান, তারপর উপরের `YOUR_WAKATIME_USER_ID` জায়গায় আপনার নিজের user ID বসিয়ে দিন।
 
 ---
 
-### <span class="bounce">📈</span> Full Metrics Dashboard
+### 📈 Full Metrics Dashboard
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/tumit-h-r-75/tumit-h-r-75/main/github-metrics.svg" width="95%" />
@@ -161,7 +145,7 @@ Working on full-stack web development spanning **MERN stack applications, Next.j
 
 ---
 
-### <span class="pulse">📌</span> Featured Projects
+### 📌 Featured Projects
 
 | Project | Description | Tech |
 |---|---|---|
@@ -175,7 +159,7 @@ Working on full-stack web development spanning **MERN stack applications, Next.j
 
 ---
 
-### <span class="glow">🏆</span> GitHub Achievements
+### 🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="80" alt="Pull Shark x2" />

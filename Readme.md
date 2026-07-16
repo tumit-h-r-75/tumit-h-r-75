@@ -1,114 +1,100 @@
-<h1 align="center">Hi 👋, I'm TUMIT HASAN</h1>
-<h3 align="center">🚀 MERN Stack Developer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="assets/banner.png" alt="Tumit Hasan Banner" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D98BA,100:1a1a2e&height=220&section=header&text=Tumit%20Hasan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0D98BA&center=true&vCenter=true&width=500&lines=React+Developer+💙;MERN+Stack+💻;Open+Source+Contributor+🌱;Passionate+About+Learning+📚;Always+Coding+%F0%9F%92%BB" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0D98BA&center=true&vCenter=true&width=600&lines=React+%2B+Node.js+Developer+%F0%9F%92%99;MERN+Stack+Enthusiast+%F0%9F%92%BB;Building+Scalable+Web+Apps+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%B1;Always+Learning%2C+Always+Coding+%F0%9F%93%9A" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=tumit-h-r-75&label=Profile%20Views&color=0d98ba&style=flat" alt="profile views" />
+<img src="https://img.shields.io/github/followers/tumit-h-r-75?label=Followers&style=flat&color=0d98ba" alt="followers" />
+
+</div>
 
 ---
 
-## 🧑‍💼 About Me.
+### 🧑‍💻 About Me
+
+<img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="140" />
+
+- 🎓 Final-semester CSE student at **Satkhira Polytechnic Institute**
+- 💻 A dedicated **MERN Stack Developer** who loves turning ideas into performant, user-friendly web apps
+- 🎯 Currently sharpening skills in **Next.js** and **Redux**
+- 🔭 Currently building: **Volunteer Hub** — a fullstack MERN project
+- 🌱 Exploring: advanced backend security & authentication
+- 🌐 Deploying on: **Firebase, Vercel, Netlify**
+- 🏏 Off the keyboard, you'll find me playing **cricket**
+- 🌟 Inspired by **Jhankar Mahbub** and **Rasel Mridha** (mentor & friend)
+- 💬 Favorite quote: *"Never stop learning because life never stops teaching."*
+
+<br clear="right"/>
+
+---
+
+### 📫 Reach Me
 
 <p align="left">
-💻 MERN Stack Developer | 🌍 Passionate about Modern Web Technologies | 🚀 Building Scalable & Efficient Web Apps<br><br>
-
-Hello! I'm Tumit Hasan, a dedicated MERN Stack developer who loves creating performant and user-friendly web applications. I enjoy working with both frontend and backend technologies to deliver full-stack solutions.<br><br>
-
-🎓 Currently in final semester of Computer Science and Engineering at Satkhira Polytechnic Institute.<br><br>
-
-🛠️ Skills I Bring:<br>
-🌈 Frontend: HTML, CSS, JavaScript, React.js, Tailwind CSS<br>
-🛡️ Backend: Node.js, Express.js<br>
-🗃️ Database: MongoDB, Firebase Realtime Database<br>
-🔐 Authentication & Security: JWT, Firebase Authentication<br><br>
-
-🎯 Currently focused on mastering Next.js and Redux for advanced frontend development.<br><br>
-
-🎨 Passionate about writing clean, maintainable code and building creative solutions that make a difference.<br><br>
-
-```🏏 extra curricular activities```: When I’m not coding, I love playing ```cricket```<br><br>
-
-🌟 Favorite Quote: “Never stop learning because life never stops teaching.”<br>
-🌟 Inspiration: **Jhankar Mahbub** ```and``` **Rasel Mridha** (he is my friend) <br><br>
-
-📍 Location: Bangladesh<br>
-📧 Email: <a href="mailto:tumithasan1@gmail.com">tumithasan1@gmail.com</a><br>
-📞 Phone: 01611960330
+  <a href="mailto:tumithasan1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/8801611960330"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tumit-hasan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://fb.com/tumit.hasan.rafi"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://discord.gg/tumit_hasan"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
+
+📍 **Location:** Bangladesh &nbsp;|&nbsp; 📞 **Phone:** 01611960330
 
 ---
 
-## 🚀 What I'm Working On
+### 🛠️ Tech Stack
 
 <p align="left">
-- 🔭 Building: <b>Volunteer Hub Fullstack Project</b><br>
-- ⚒️ Exploring: <b>Next.js</b><br>
-- 🧪 Learning: <b>Advanced backend security & authentication</b><br>
-- 🌐 Hosting Projects On: <b>Firebase, Vercel, Netlify</b>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,tailwind,git,figma,vscode" />
 </p>
+
+**Frontend** &nbsp;`HTML5` `CSS3` `JavaScript` `React.js` `Tailwind CSS`
+**Backend** &nbsp;`Node.js` `Express.js`
+**Database** &nbsp;`MongoDB` `Firebase Realtime Database`
+**Auth & Security** &nbsp;`JWT` `Firebase Authentication`
+**Tools** &nbsp;`Git` `Figma` `VS Code`
 
 ---
 
-## 🛠️ Skills & Tools
-
-<p align="center"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/> </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> </a>
-</p>
-
----
-
-## 🌟 GitHub Stats
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tumit-h-r-75&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tumit-h-r-75&theme=radical" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tumit-h-r-75&layout=compact&theme=radical" alt="Top Languages" />
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app?username=tumit-h-r-75&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tumit-h-r-75&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=tumit-h-r-75&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tumit-h-r-75&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
 </p>
-
----
-
-## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://fb.com/tumit.hasan.rafi" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://www.linkedin.com/in/tumit-hasan/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://discord.gg/tumit_hasan" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="mailto:tumithasan1@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://wa.me/8801611960330" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=tumit-h-r-75&theme=tokyonight&hide_border=true" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tumit-h-r-75&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=tumit-h-r-75&theme=tokyonight&column=7&margin-w=8&margin-h=8&no-bg=true" width="95%" />
 </p>
 
 ---
 
-```⭐️ If you like my work, consider giving a star to my repositories!```  
-🤝 Always open to collaborations and learning opportunities.
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tumit-h-r-75/tumit-h-r-75/output/github-contribution-grid-snake-dark.svg" width="95%" />
+</p>
+
+> 💡 To enable this animation, add the **Platane/snk** GitHub Action to your profile repo — it auto-generates the snake SVG from your contribution graph on every push.
+
+---
+
+<div align="center">
+
+⭐️ **If you like my work, consider starring my repositories!**
+🤝 **Always open to collaborations, freelance gigs, and learning opportunities.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0D98BA&height=100&section=footer" width="100%"/>
+
+</div>

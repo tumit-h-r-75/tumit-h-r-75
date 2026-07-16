@@ -10,14 +10,9 @@
 
 <br/>
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="views" />
-<img src="https://komarev.com/ghpvc/?username=tumit-h-r-75&label=Views&color=0d98ba&style=flat-square" alt="profile views" />
-&nbsp;&nbsp;
-<img height="32" width="32" src="https://media.giphy.com/media/l0HlOy0QRq7rEayVi/giphy.gif" alt="followers" />
-<img src="https://img.shields.io/github/followers/tumit-h-r-75?label=Followers&style=flat-square&color=0d98ba" alt="followers" />
-&nbsp;&nbsp;
-<img height="32" width="32" src="https://media.giphy.com/media/qkn9uIEfNXqg0/giphy.gif" alt="repos" />
-<a href="https://github.com/tumit-h-r-75?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?color=0d98ba&label=Repositories&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftumit-h-r-75&style=flat-square" alt="repos" /></a>
+<img src="https://komarev.com/ghpvc/?username=tumit-h-r-75&label=👀+Views&color=0d98ba&style=flat-square" alt="profile views" />
+<img src="https://img.shields.io/github/followers/tumit-h-r-75?label=🤝+Followers&style=flat-square&color=0d98ba" alt="followers" />
+<a href="https://github.com/tumit-h-r-75?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?color=0d98ba&label=📦+Repositories&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftumit-h-r-75&style=flat-square" alt="repos" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0D98BA&height=60&section=footer" width="100%"/>
 
@@ -25,27 +20,27 @@
 
 ---
 
-### <img height="35" width="35" src="https://media.giphy.com/media/WFZvB7VIXBgtre59nO/giphy.gif" alt="code" /> About Me
+### 🧑‍💻 About Me
 
 <img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="140" />
 
-- <img height="20" width="20" src="https://media.giphy.com/media/f9XJPs6YV9hrrSMLio/giphy.gif" alt="graduation" /> Final-semester CSE student at **Satkhira Polytechnic Institute**
-- <img height="20" width="20" src="https://media.giphy.com/media/QssGEFJ13ZsPfaLpQQ/giphy.gif" alt="dev" /> A **Full Stack Developer** working across **MERN, Next.js, and WordPress** to build performant, user-friendly web apps
-- <img height="20" width="20" src="https://media.giphy.com/media/WoIq1g4kyxxdgMIGWR/giphy.gif" alt="building" /> **1+ year of professional experience at Exprovia**
-- <img height="20" width="20" src="https://media.giphy.com/media/o28W1pJAxrE1UtCaIY/giphy.gif" alt="location" /> Based in **Jashore, Khulna, Bangladesh**
-- <img height="20" width="20" src="https://media.giphy.com/media/3oKIPfSnZpKE6qL5V6/giphy.gif" alt="puzzle" /> Comfortable across the full spectrum: custom React/Next.js apps, WordPress theme/plugin customization, and full backend development
-- <img height="20" width="20" src="https://media.giphy.com/media/nXxNjsrJ7wr28/giphy.gif" alt="telescope" /> Currently building: **Volunteer Hub** — a fullstack MERN project
-- <img height="20" width="20" src="https://media.giphy.com/media/9S7FH04XMXW3u/giphy.gif" alt="learning" /> Exploring: advanced backend security & authentication
-- <img height="20" width="20" src="https://media.giphy.com/media/3o6ZncpXEv5G3zF3pO/giphy.gif" alt="globe" /> Deploying on: **Firebase, Vercel, Netlify**
-- <img height="20" width="20" src="https://media.giphy.com/media/l3q2zVr6cu95nF6O4/giphy.gif" alt="cricket" /> Off the keyboard, you'll find me playing **cricket**
-- <img height="20" width="20" src="https://media.giphy.com/media/lIKVQ1SpwNEHDL0PnO/giphy.gif" alt="star" /> Inspired by **Jhankar Mahbub** and **Rasel Mridha** (mentor & friend)
-- <img height="20" width="20" src="https://media.giphy.com/media/WrxwSqDzmEncRA5nlr/giphy.gif" alt="speech" /> Favorite quote: *"Never stop learning because life never stops teaching."*
+- 🎓 Final-semester CSE student at **Satkhira Polytechnic Institute**
+- 💻 A **Full Stack Developer** working across **MERN, Next.js, and WordPress** to build performant, user-friendly web apps
+- 🏢 **1+ year of professional experience at Exprovia**
+- 📍 Based in **Jashore, Khulna, Bangladesh**
+- 🧩 Comfortable across the full spectrum: custom React/Next.js apps, WordPress theme/plugin customization, and full backend development
+- 🔭 Currently building: **Volunteer Hub** — a fullstack MERN project
+- 🌱 Exploring: advanced backend security & authentication
+- 🌐 Deploying on: **Firebase, Vercel, Netlify**
+- 🏏 Off the keyboard, you'll find me playing **cricket**
+- 🌟 Inspired by **Jhankar Mahbub** and **Rasel Mridha** (mentor & friend)
+- 💬 Favorite quote: *"Never stop learning because life never stops teaching."*
 
 <br clear="right"/>
 
 ---
 
-### <img height="30" width="30" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWc/giphy.gif" alt="globe" /> Portfolio & Links
+### 🌐 Portfolio & Links
 
 <p align="center">
   <a href="https://my-protfolio-tumit.web.app/" target="_blank">
@@ -58,7 +53,7 @@
 
 ---
 
-### <img height="30" width="30" src="https://media.giphy.com/media/OcZp0maz7AA0E/giphy.gif" alt="mail" /> Reach Me
+### 📫 Reach Me
 
 <p align="left">
   <a href="mailto:tumithasan1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -69,18 +64,18 @@
   <a href="https://discord.gg/tumit_hasan"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
-<img height="20" width="20" src="https://media.giphy.com/media/o28W1pJAxrE1UtCaIY/giphy.gif" alt="location" /> **Location:** Jashore, Khulna, Bangladesh &nbsp;|&nbsp; <img height="20" width="20" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="phone" /> **Phone:** 01611960330
+📍 **Location:** Jashore, Khulna, Bangladesh &nbsp;|&nbsp; 📞 **Phone:** 01611960330
 
 ---
 
-### <img height="30" width="30" src="https://media.giphy.com/media/WoIq1g4kyxxdgMIGWR/giphy.gif" alt="work" /> Experience
+### 💼 Experience
 
-<img height="25" width="25" src="https://media.giphy.com/media/QssGEFJ13ZsPfaLpQQ/giphy.gif" alt="dev" /> **Full Stack Developer** — **Exprovia** &nbsp;·&nbsp; *1+ year*
+💻 **Full Stack Developer** — **Exprovia** &nbsp;·&nbsp; *1+ year*
 Working on full-stack web development spanning **MERN stack applications, Next.js projects, and WordPress-based client solutions**, contributing to real-world production builds and client-facing deliverables.
 
 ---
 
-### <img height="30" width="30" src="https://media.giphy.com/media/Wj7lNjMNDe69eZicdp/giphy.gif" alt="tools" /> Tech Stack
+### 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,firebase,wordpress,tailwind,git,figma,vscode" />
@@ -95,7 +90,7 @@ Working on full-stack web development spanning **MERN stack applications, Next.j
 
 ---
 
-### <img height="30" width="30" src="https://media.giphy.com/media/iVNu2i001CZ9sCt10q/giphy.gif" alt="stats" /> GitHub Analytics
+### 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tumit-h-r-75&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github" width="49%" />
@@ -116,7 +111,7 @@ Working on full-stack web development spanning **MERN stack applications, Next.j
 
 ---
 
-### <img height="30" width="30" src="https://media.giphy.com/media/l0HlOy0QRq7rEayVi/giphy.gif" alt="snake" /> Contribution Snake
+### 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/tumit-h-r-75/tumit-h-r-75/output/github-contribution-grid-snake-dark.svg" width="95%" />
@@ -124,7 +119,7 @@ Working on full-stack web development spanning **MERN stack applications, Next.j
 
 ---
 
-### <img height="30" width="30" src="https://media.giphy.com/media/W5eoZHnuWVlvjxDnoD/giphy.gif" alt="3d" /> 3D Contribution Graph
+### 🌌 3D Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/tumit-h-r-75/tumit-h-r-75/master/profile-3d-contrib/profile-night-rainbow.svg" width="95%" />
@@ -132,7 +127,7 @@ Working on full-stack web development spanning **MERN stack applications, Next.j
 
 ---
 
-### <img height="30" width="30" src="https://media.giphy.com/media/3o7TKZ3YdP8jQVGOdO/giphy.gif" alt="time" /> Coding Activity (WakaTime)
+### ⏱️ Coding Activity (WakaTime)
 
 <p align="center">
   <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg" alt="WakaTime badge" />
@@ -142,7 +137,7 @@ Working on full-stack web development spanning **MERN stack applications, Next.j
 
 ---
 
-### <img height="30" width="30" src="https://media.giphy.com/media/tXLpoDIkP8fq7gMDfR/giphy.gif" alt="metrics" /> Full Metrics Dashboard
+### 📈 Full Metrics Dashboard
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/tumit-h-r-75/tumit-h-r-75/main/github-metrics.svg" width="95%" />
@@ -150,7 +145,7 @@ Working on full-stack web development spanning **MERN stack applications, Next.j
 
 ---
 
-### <img height="30" width="30" src="https://media.giphy.com/media/xTiTnYvliIAko8B91e/giphy.gif" alt="projects" /> Featured Projects
+### 📌 Featured Projects
 
 | Project | Description | Tech |
 |---|---|---|
@@ -164,7 +159,7 @@ Working on full-stack web development spanning **MERN stack applications, Next.j
 
 ---
 
-### <img height="30" width="30" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="trophy" /> GitHub Achievements
+### 🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="80" alt="Pull Shark x2" />

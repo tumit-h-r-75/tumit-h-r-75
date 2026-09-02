@@ -18,7 +18,7 @@
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" />
 
 ### 🧑‍💻 About Me
 
@@ -43,31 +43,27 @@
 
 ### 🌐 Portfolio & Links
 
-<a href="https://my-protfolio-tumit.web.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0D98BA?style=for-the-badge&logo=firefox&logoColor=white" />
-</a>
-<a href="https://github.com/tumit-h-r-75" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-tumit--h--r--75-1a1a2e?style=for-the-badge&logo=github&logoColor=00D4FF" />
-</a>
+<a href="https://my-protfolio-tumit.web.app/" target="_blank"><img src="assets/badges/portfolio.svg" /></a>
+<a href="https://github.com/tumit-h-r-75" target="_blank"><img src="assets/badges/github.svg" /></a>
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" />
 
 ### 📫 Reach Me
 
 <p align="left">
-  <a href="mailto:tumithasan1@gmail.com"><img src="https://img.shields.io/badge/Gmail-1a1a2e?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
-  <a href="https://wa.me/8801611960330"><img src="https://img.shields.io/badge/WhatsApp-1a1a2e?style=for-the-badge&logo=whatsapp&logoColor=25D366" /></a>
-  <a href="https://www.linkedin.com/in/tumit-hasan-rafi/"><img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-  <a href="https://fb.com/tumit.hasan.rafi.2025"><img src="https://img.shields.io/badge/Facebook-1a1a2e?style=for-the-badge&logo=facebook&logoColor=1877F2" /></a>
-  <a href="https://www.instagram.com/_t_u_m_i_t_h_a_s_a_n_r_a_f_i_/"><img src="https://img.shields.io/badge/Instagram-1a1a2e?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>
-  <a href="https://discord.gg/tumit_hasan"><img src="https://img.shields.io/badge/Discord-1a1a2e?style=for-the-badge&logo=discord&logoColor=5865F2" /></a>
+  <a href="mailto:tumithasan1@gmail.com"><img src="assets/badges/gmail.svg" /></a>
+  <a href="https://wa.me/8801611960330"><img src="assets/badges/whatsapp.svg" /></a>
+  <a href="https://www.linkedin.com/in/tumit-hasan-rafi/"><img src="assets/badges/linkedin.svg" /></a>
+  <a href="https://fb.com/tumit.hasan.rafi.2025"><img src="assets/badges/facebook.svg" /></a>
+  <a href="https://www.instagram.com/_t_u_m_i_t_h_a_s_a_n_r_a_f_i_/"><img src="assets/badges/instagram.svg" /></a>
+  <a href="https://discord.gg/tumit_hasan"><img src="assets/badges/discord.svg" /></a>
 </p>
 
 📍 **Location:** Jashore, Khulna, Bangladesh &nbsp;|&nbsp; 📞 **Phone:** 01611960330
 
----
+<img src="assets/divider.svg" width="100%" />
 
 ### 💼 Experience
 
@@ -75,12 +71,12 @@
 
 > Working on full-stack web development spanning **MERN stack applications**, **Next.js projects**, and **WordPress-based client solutions**, contributing to real-world production builds and client-facing deliverables.
 
----
+<img src="assets/divider.svg" width="100%" />
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,firebase,wordpress,git,figma,vscode&theme=dark" />
+  <img src="assets/tech-stack-animated.svg" width="100%" />
 </p>
 
 | Category | Stack |
@@ -92,7 +88,7 @@
 | **Auth & Security** | JWT · Firebase Authentication |
 | **Tools** | Git · Figma · VS Code |
 
----
+<img src="assets/divider.svg" width="100%" />
 
 ### 📊 GitHub Analytics
 
@@ -113,7 +109,7 @@
   <img src="https://github-profile-trophy.vercel.app?username=tumit-h-r-75&theme=tokyonight&column=7&margin-w=8&margin-h=8&no-bg=true" width="95%" />
 </p>
 
----
+<img src="assets/divider.svg" width="100%" />
 
 ### 📈 Live Metrics Dashboard
 
@@ -123,7 +119,7 @@
 
 <p align="center"><sub>Auto-updated daily via GitHub Actions — contribution calendar, top languages, coding habits & achievements in one place.</sub></p>
 
----
+<img src="assets/divider.svg" width="100%" />
 
 ### 📌 Featured Projects
 
@@ -137,7 +133,7 @@
 
 <p align="center"><sub>🔗 See all repositories on my <a href="https://github.com/tumit-h-r-75?tab=repositories">GitHub profile</a></sub></p>
 
----
+<img src="assets/divider.svg" width="100%" />
 
 ### 🏆 GitHub Achievements
 
@@ -148,7 +144,7 @@
 
 <p align="center"><b>Pull Shark ×2</b> &nbsp;&nbsp;·&nbsp;&nbsp; <b>Quickdraw</b></p>
 
----
+<img src="assets/divider.svg" width="100%" />
 
 <div align="center">
 
@@ -158,6 +154,6 @@
 
 <br/>
 
-<sub>Made with ♥ by <a href="https://github.com/tumit-h-r-75">Tumit Hasan</a></sub>
+<img src="assets/footer-signature.svg" />
 
 </div>

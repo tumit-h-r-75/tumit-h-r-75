@@ -1,0 +1,101 @@
+<svg width="1200" height="172" viewBox="0 0 1200 172" fill="none" xmlns="http://www.w3.org/2000/svg">
+<title>Tech Stack</title>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.00s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0,10" to="0,0" dur="0.5s" begin="0.00s" fill="freeze"/>
+    <rect x="25" y="26" width="154" height="44" rx="22" fill="#ffffff" fill-opacity="0.06" stroke="#0D98BA" stroke-width="1.2"/>
+    <circle cx="53" cy="48.0" r="12" fill="#E34F26"/><text x="53" y="52.0" font-family="system-ui, 'Segoe UI', sans-serif" font-size="10" font-weight="800" text-anchor="middle" fill="#FFFFFF">5</text>
+    <text x="116.0" y="53" font-family="system-ui, 'Segoe UI', sans-serif" font-size="13.5" font-weight="700" text-anchor="middle" fill="#E6F7FB">HTML5</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.08s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0,10" to="0,0" dur="0.5s" begin="0.08s" fill="freeze"/>
+    <rect x="191" y="26" width="154" height="44" rx="22" fill="#ffffff" fill-opacity="0.06" stroke="#0D98BA" stroke-width="1.2"/>
+    <circle cx="219" cy="48.0" r="12" fill="#1572B6"/><text x="219" y="52.0" font-family="system-ui, 'Segoe UI', sans-serif" font-size="10" font-weight="800" text-anchor="middle" fill="#FFFFFF">3</text>
+    <text x="282.0" y="53" font-family="system-ui, 'Segoe UI', sans-serif" font-size="13.5" font-weight="700" text-anchor="middle" fill="#E6F7FB">CSS3</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.16s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0,10" to="0,0" dur="0.5s" begin="0.16s" fill="freeze"/>
+    <rect x="357" y="26" width="154" height="44" rx="22" fill="#ffffff" fill-opacity="0.06" stroke="#0D98BA" stroke-width="1.2"/>
+    <circle cx="385" cy="48.0" r="12" fill="#F7DF1E"/><text x="385" y="52.0" font-family="system-ui, 'Segoe UI', sans-serif" font-size="10" font-weight="800" text-anchor="middle" fill="#12121f">JS</text>
+    <text x="448.0" y="53" font-family="system-ui, 'Segoe UI', sans-serif" font-size="13.5" font-weight="700" text-anchor="middle" fill="#E6F7FB">JavaScript</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.24s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0,10" to="0,0" dur="0.5s" begin="0.24s" fill="freeze"/>
+    <rect x="523" y="26" width="154" height="44" rx="22" fill="#ffffff" fill-opacity="0.06" stroke="#0D98BA" stroke-width="1.2"/>
+    <g stroke="#61DAFB" fill="none" stroke-width="1.6"><ellipse cx="551" cy="48.0" rx="9" ry="3.8" transform="rotate(0 551 48.0)"/><ellipse cx="551" cy="48.0" rx="9" ry="3.8" transform="rotate(60 551 48.0)"/><ellipse cx="551" cy="48.0" rx="9" ry="3.8" transform="rotate(120 551 48.0)"/><circle cx="551" cy="48.0" r="2" fill="#61DAFB" stroke="none"/></g>
+    <text x="614.0" y="53" font-family="system-ui, 'Segoe UI', sans-serif" font-size="13.5" font-weight="700" text-anchor="middle" fill="#E6F7FB">React</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.32s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0,10" to="0,0" dur="0.5s" begin="0.32s" fill="freeze"/>
+    <rect x="689" y="26" width="154" height="44" rx="22" fill="#ffffff" fill-opacity="0.06" stroke="#0D98BA" stroke-width="1.2"/>
+    <circle cx="717" cy="48.0" r="12" fill="#EDEDED"/><text x="717" y="52.0" font-family="system-ui, 'Segoe UI', sans-serif" font-size="10" font-weight="800" text-anchor="middle" fill="#12121f">N</text>
+    <text x="780.0" y="53" font-family="system-ui, 'Segoe UI', sans-serif" font-size="13.5" font-weight="700" text-anchor="middle" fill="#E6F7FB">Next.js</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.40s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0,10" to="0,0" dur="0.5s" begin="0.40s" fill="freeze"/>
+    <rect x="855" y="26" width="154" height="44" rx="22" fill="#ffffff" fill-opacity="0.06" stroke="#0D98BA" stroke-width="1.2"/>
+    <circle cx="883" cy="48.0" r="12" fill="#38BDF8"/><text x="883" y="52.0" font-family="system-ui, 'Segoe UI', sans-serif" font-size="10" font-weight="800" text-anchor="middle" fill="#12121f">TW</text>
+    <text x="946.0" y="53" font-family="system-ui, 'Segoe UI', sans-serif" font-size="13.5" font-weight="700" text-anchor="middle" fill="#E6F7FB">Tailwind</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.48s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0,10" to="0,0" dur="0.5s" begin="0.48s" fill="freeze"/>
+    <rect x="1021" y="26" width="154" height="44" rx="22" fill="#ffffff" fill-opacity="0.06" stroke="#0D98BA" stroke-width="1.2"/>
+    <circle cx="1049" cy="48.0" r="12" fill="#339933"/><text x="1049" y="52.0" font-family="system-ui, 'Segoe UI', sans-serif" font-size="10" font-weight="800" text-anchor="middle" fill="#FFFFFF">Nd</text>
+    <text x="1112.0" y="53" font-family="system-ui, 'Segoe UI', sans-serif" font-size="13.5" font-weight="700" text-anchor="middle" fill="#E6F7FB">Node.js</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.56s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0,10" to="0,0" dur="0.5s" begin="0.56s" fill="freeze"/>
+    <rect x="25" y="88" width="154" height="44" rx="22" fill="#ffffff" fill-opacity="0.06" stroke="#0D98BA" stroke-width="1.2"/>
+    <circle cx="53" cy="110.0" r="12" fill="#F5F7FA"/><text x="53" y="114.0" font-family="system-ui, 'Segoe UI', sans-serif" font-size="10" font-weight="800" text-anchor="middle" fill="#12121f">Ex</text>
+    <text x="116.0" y="115" font-family="system-ui, 'Segoe UI', sans-serif" font-size="13.5" font-weight="700" text-anchor="middle" fill="#E6F7FB">Express</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.64s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0,10" to="0,0" dur="0.5s" begin="0.64s" fill="freeze"/>
+    <rect x="191" y="88" width="154" height="44" rx="22" fill="#ffffff" fill-opacity="0.06" stroke="#0D98BA" stroke-width="1.2"/>
+    <circle cx="219" cy="110.0" r="12" fill="#47A248"/><text x="219" y="114.0" font-family="system-ui, 'Segoe UI', sans-serif" font-size="10" font-weight="800" text-anchor="middle" fill="#FFFFFF">Mo</text>
+    <text x="282.0" y="115" font-family="system-ui, 'Segoe UI', sans-serif" font-size="13.5" font-weight="700" text-anchor="middle" fill="#E6F7FB">MongoDB</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.72s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0,10" to="0,0" dur="0.5s" begin="0.72s" fill="freeze"/>
+    <rect x="357" y="88" width="154" height="44" rx="22" fill="#ffffff" fill-opacity="0.06" stroke="#0D98BA" stroke-width="1.2"/>
+    <circle cx="385" cy="110.0" r="12" fill="#FFCA28"/><text x="385" y="114.0" font-family="system-ui, 'Segoe UI', sans-serif" font-size="10" font-weight="800" text-anchor="middle" fill="#12121f">Fb</text>
+    <text x="448.0" y="115" font-family="system-ui, 'Segoe UI', sans-serif" font-size="13.5" font-weight="700" text-anchor="middle" fill="#E6F7FB">Firebase</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.80s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0,10" to="0,0" dur="0.5s" begin="0.80s" fill="freeze"/>
+    <rect x="523" y="88" width="154" height="44" rx="22" fill="#ffffff" fill-opacity="0.06" stroke="#0D98BA" stroke-width="1.2"/>
+    <circle cx="551" cy="110.0" r="12" fill="#21759B"/><text x="551" y="114.0" font-family="system-ui, 'Segoe UI', sans-serif" font-size="10" font-weight="800" text-anchor="middle" fill="#FFFFFF">Wp</text>
+    <text x="614.0" y="115" font-family="system-ui, 'Segoe UI', sans-serif" font-size="13.5" font-weight="700" text-anchor="middle" fill="#E6F7FB">WordPress</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.88s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0,10" to="0,0" dur="0.5s" begin="0.88s" fill="freeze"/>
+    <rect x="689" y="88" width="154" height="44" rx="22" fill="#ffffff" fill-opacity="0.06" stroke="#0D98BA" stroke-width="1.2"/>
+    <circle cx="717" cy="110.0" r="12" fill="#F05032"/><text x="717" y="114.0" font-family="system-ui, 'Segoe UI', sans-serif" font-size="10" font-weight="800" text-anchor="middle" fill="#FFFFFF">Gt</text>
+    <text x="780.0" y="115" font-family="system-ui, 'Segoe UI', sans-serif" font-size="13.5" font-weight="700" text-anchor="middle" fill="#E6F7FB">Git</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.96s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0,10" to="0,0" dur="0.5s" begin="0.96s" fill="freeze"/>
+    <rect x="855" y="88" width="154" height="44" rx="22" fill="#ffffff" fill-opacity="0.06" stroke="#0D98BA" stroke-width="1.2"/>
+    <circle cx="883" cy="110.0" r="12" fill="#A259FF"/><text x="883" y="114.0" font-family="system-ui, 'Segoe UI', sans-serif" font-size="10" font-weight="800" text-anchor="middle" fill="#FFFFFF">Fg</text>
+    <text x="946.0" y="115" font-family="system-ui, 'Segoe UI', sans-serif" font-size="13.5" font-weight="700" text-anchor="middle" fill="#E6F7FB">Figma</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.04s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0,10" to="0,0" dur="0.5s" begin="1.04s" fill="freeze"/>
+    <rect x="1021" y="88" width="154" height="44" rx="22" fill="#ffffff" fill-opacity="0.06" stroke="#0D98BA" stroke-width="1.2"/>
+    <circle cx="1049" cy="110.0" r="12" fill="#007ACC"/><text x="1049" y="114.0" font-family="system-ui, 'Segoe UI', sans-serif" font-size="10" font-weight="800" text-anchor="middle" fill="#FFFFFF">vs</text>
+    <text x="1112.0" y="115" font-family="system-ui, 'Segoe UI', sans-serif" font-size="13.5" font-weight="700" text-anchor="middle" fill="#E6F7FB">VS Code</text>
+  </g>
+</svg>

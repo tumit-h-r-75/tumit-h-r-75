@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" width="100%" alt="Tumit Hasan — MERN Stack Developer" />
+<img src="assets/animated-banner.svg" width="100%" alt="Tumit Hasan — MERN Stack Developer" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=%F0%9F%92%8E+Crafting+Digital+Solutions;%E2%9A%A1+Building+Scalable+Web+Apps;%F0%9F%8E%AF+1%2B+Year+of+Coding+Journey;%F0%9F%8C%9F+From+Idea+to+Production;%F0%9F%92%A1+Always+Innovating" alt="Typing SVG" />
 

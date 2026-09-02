@@ -1,12 +1,8 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D98BA,50:1a1a2e,100:0D98BA&height=230&section=header&text=%E2%9C%A8%20Tumit%20Hasan%20%E2%9C%A8&fontSize=58&fontColor=00D4FF&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%C2%B7%20Next.js%20%C2%B7%20WordPress&descAlignY=55&descSize=18">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,50:0D98BA,100:87CEEB&height=230&section=header&text=%E2%9C%A8%20Tumit%20Hasan%20%E2%9C%A8&fontSize=58&fontColor=1a1a2e&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%C2%B7%20Next.js%20%C2%B7%20WordPress&descAlignY=55&descSize=18">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D98BA,50:1a1a2e,100:0D98BA&height=230&section=header&text=%E2%9C%A8%20Tumit%20Hasan%20%E2%9C%A8&fontSize=58&fontColor=00D4FF&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%C2%B7%20Next.js%20%C2%B7%20WordPress&descAlignY=55&descSize=18" width="100%"/>
-</picture>
+<img src="assets/banner.png" width="100%" alt="Tumit Hasan — MERN Stack Developer" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=%F0%9F%92%8E+Crafting+Digital+Solutions;%E2%9A%A1+Building+Scalable+Web+Apps;%F0%9F%8E%AF+1%2B+Year+of+Coding+Journey;%F0%9F%8C%9F+From+Idea+to+Production;%F0%9F%92%A1+Always+Innovating" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=%F0%9F%92%8E+Crafting+Digital+Solutions;%E2%9A%A1+Building+Scalable+Web+Apps;%F0%9F%8E%AF+1%2B+Year+of+Coding+Journey;%F0%9F%8C%9F+From+Idea+to+Production;%F0%9F%92%A1+Always+Innovating" alt="Typing SVG" />
 
 <br/>
 
@@ -20,11 +16,9 @@
 
 </sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0D98BA&height=60&section=footer" width="100%"/>
-
 </div>
 
-<br/>
+---
 
 ### 🧑‍💻 About Me
 
@@ -162,6 +156,8 @@
 &nbsp;&nbsp;·&nbsp;&nbsp;
 🤝 **Always open to collaborations, freelance gigs, and learning opportunities.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0D98BA&height=100&section=footer" width="100%"/>
+<br/>
+
+<sub>Made with ♥ by <a href="https://github.com/tumit-h-r-75">Tumit Hasan</a></sub>
 
 </div>

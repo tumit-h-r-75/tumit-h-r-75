@@ -1,0 +1,55 @@
+<svg width="1200" height="130" viewBox="0 0 1200 130" fill="none" xmlns="http://www.w3.org/2000/svg">
+<title>Quick Stats</title>
+<defs>
+<radialGradient id="blob" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#0D98BA" stop-opacity="0.35"/><stop offset="100%" stop-color="#0D98BA" stop-opacity="0"/></radialGradient>
+<filter id="blur"><feGaussianBlur stdDeviation="10"/></filter>
+</defs>
+  <g>
+    <circle cx="168.0" cy="65.0" r="70" fill="url(#blob)" filter="url(#blur)"/>
+    <g transform="translate(168.0,65.0)">
+      <g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" dur="0.55s" begin="0.00s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.55s" begin="0.00s" fill="freeze" calcMode="spline" keySplines="0.2 0.6 0.3 1"/>
+        <rect x="-132.0" y="-55.0" width="264" height="110" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#0D98BA" stroke-width="1.2"/>
+        <text x="0" y="14" font-family="system-ui, 'Segoe UI', sans-serif" font-size="40" font-weight="800" text-anchor="middle" fill="#00D4FF">1+</text>
+        <text x="0" y="40" font-family="system-ui, 'Segoe UI', sans-serif" font-size="11.5" font-weight="700" letter-spacing="2" text-anchor="middle" fill="#9FB3BD">YEARS EXPERIENCE</text>
+      </g>
+    </g>
+  </g>
+  <g>
+    <circle cx="456.0" cy="65.0" r="70" fill="url(#blob)" filter="url(#blur)"/>
+    <g transform="translate(456.0,65.0)">
+      <g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" dur="0.55s" begin="0.15s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.55s" begin="0.15s" fill="freeze" calcMode="spline" keySplines="0.2 0.6 0.3 1"/>
+        <rect x="-132.0" y="-55.0" width="264" height="110" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#0D98BA" stroke-width="1.2"/>
+        <text x="0" y="14" font-family="system-ui, 'Segoe UI', sans-serif" font-size="40" font-weight="800" text-anchor="middle" fill="#00D4FF">14</text>
+        <text x="0" y="40" font-family="system-ui, 'Segoe UI', sans-serif" font-size="11.5" font-weight="700" letter-spacing="2" text-anchor="middle" fill="#9FB3BD">TECHNOLOGIES</text>
+      </g>
+    </g>
+  </g>
+  <g>
+    <circle cx="744.0" cy="65.0" r="70" fill="url(#blob)" filter="url(#blur)"/>
+    <g transform="translate(744.0,65.0)">
+      <g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" dur="0.55s" begin="0.30s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.55s" begin="0.30s" fill="freeze" calcMode="spline" keySplines="0.2 0.6 0.3 1"/>
+        <rect x="-132.0" y="-55.0" width="264" height="110" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#0D98BA" stroke-width="1.2"/>
+        <text x="0" y="14" font-family="system-ui, 'Segoe UI', sans-serif" font-size="40" font-weight="800" text-anchor="middle" fill="#00D4FF">5</text>
+        <text x="0" y="40" font-family="system-ui, 'Segoe UI', sans-serif" font-size="11.5" font-weight="700" letter-spacing="2" text-anchor="middle" fill="#9FB3BD">FEATURED PROJECTS</text>
+      </g>
+    </g>
+  </g>
+  <g>
+    <circle cx="1032.0" cy="65.0" r="70" fill="url(#blob)" filter="url(#blur)"/>
+    <g transform="translate(1032.0,65.0)">
+      <g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" dur="0.55s" begin="0.45s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.6" to="1" dur="0.55s" begin="0.45s" fill="freeze" calcMode="spline" keySplines="0.2 0.6 0.3 1"/>
+        <rect x="-132.0" y="-55.0" width="264" height="110" rx="16" fill="#ffffff" fill-opacity="0.05" stroke="#0D98BA" stroke-width="1.2"/>
+        <text x="0" y="14" font-family="system-ui, 'Segoe UI', sans-serif" font-size="40" font-weight="800" text-anchor="middle" fill="#00D4FF">6</text>
+        <text x="0" y="40" font-family="system-ui, 'Segoe UI', sans-serif" font-size="11.5" font-weight="700" letter-spacing="2" text-anchor="middle" fill="#9FB3BD">CONTACT CHANNELS</text>
+      </g>
+    </g>
+  </g>
+</svg>

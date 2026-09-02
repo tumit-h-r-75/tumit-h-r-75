@@ -1,0 +1,17 @@
+<svg width="320" height="36" viewBox="0 0 320 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g05" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00D4FF"/>
+      <stop offset="100%" stop-color="#0D98BA" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.05s" fill="freeze"/>
+    <circle cx="16" cy="18" r="15" fill="#0D98BA" fill-opacity="0.15" stroke="#00D4FF" stroke-width="1.3"/>
+    <text x="16" y="22.5" font-family="'Courier New', Consolas, monospace" font-size="12" font-weight="700" text-anchor="middle" fill="#00D4FF">05</text>
+    <text x="40" y="23" font-family="system-ui, 'Segoe UI', sans-serif" font-size="13" font-weight="800" letter-spacing="3" fill="#8FA3AD">SKILLS</text>
+  </g>
+  <rect x="109.2" y="17" width="0" height="2" fill="url(#g05)">
+    <animate attributeName="width" from="0" to="204.8" dur="0.7s" begin="0.35s" fill="freeze"/>
+  </rect>
+</svg>

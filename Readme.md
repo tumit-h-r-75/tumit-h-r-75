@@ -16,9 +16,15 @@
 
 </sub>
 
+<br/>
+
+<img src="assets/hero-stats.svg" width="100%" />
+
 </div>
 
 <img src="assets/divider.svg" width="100%" />
+
+<img src="assets/headers/01-about.svg" />
 
 ### 🧑‍💻 About Me
 
@@ -41,6 +47,8 @@
 
 <div align="center">
 
+<img src="assets/headers/02-links.svg" />
+
 ### 🌐 Portfolio & Links
 
 <a href="https://my-protfolio-tumit.web.app/" target="_blank"><img src="assets/badges/portfolio.svg" /></a>
@@ -49,6 +57,8 @@
 </div>
 
 <img src="assets/divider.svg" width="100%" />
+
+<img src="assets/headers/03-contact.svg" />
 
 ### 📫 Reach Me
 
@@ -65,6 +75,8 @@
 
 <img src="assets/divider.svg" width="100%" />
 
+<img src="assets/headers/04-career.svg" />
+
 ### 💼 Experience
 
 **Full Stack Developer** — **Exprovia** &nbsp;·&nbsp; *1+ year*
@@ -72,6 +84,8 @@
 > Working on full-stack web development spanning **MERN stack applications**, **Next.js projects**, and **WordPress-based client solutions**, contributing to real-world production builds and client-facing deliverables.
 
 <img src="assets/divider.svg" width="100%" />
+
+<img src="assets/headers/05-skills.svg" />
 
 ### 🛠️ Tech Stack
 
@@ -89,6 +103,8 @@
 | **Tools** | Git · Figma · VS Code |
 
 <img src="assets/divider.svg" width="100%" />
+
+<img src="assets/headers/06-analytics.svg" />
 
 ### 📊 GitHub Analytics
 
@@ -111,6 +127,8 @@
 
 <img src="assets/divider.svg" width="100%" />
 
+<img src="assets/headers/07-metrics.svg" />
+
 ### 📈 Live Metrics Dashboard
 
 <p align="center">
@@ -120,6 +138,8 @@
 <p align="center"><sub>Auto-updated daily via GitHub Actions — contribution calendar, top languages, coding habits & achievements in one place.</sub></p>
 
 <img src="assets/divider.svg" width="100%" />
+
+<img src="assets/headers/08-projects.svg" />
 
 ### 📌 Featured Projects
 
@@ -134,6 +154,8 @@
 <p align="center"><sub>🔗 See all repositories on my <a href="https://github.com/tumit-h-r-75?tab=repositories">GitHub profile</a></sub></p>
 
 <img src="assets/divider.svg" width="100%" />
+
+<img src="assets/headers/09-awards.svg" />
 
 ### 🏆 GitHub Achievements
 

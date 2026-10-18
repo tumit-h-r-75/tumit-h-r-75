@@ -2,13 +2,13 @@
 
 <img src="assets/tumit-hero.svg" width="100%" alt="Tumit Hasan — Full Stack Developer working with MERN, Next.js and WordPress" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=1100&color=C77B9B&center=true&vCenter=true&width=640&lines=Full+Stack+Developer+at+Exprovia;MERN+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+WordPress;From+idea+to+production" alt="Full Stack Developer at Exprovia — MERN, Next.js, TypeScript, WordPress — from idea to production" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=9AE600&center=true&vCenter=true&width=640&lines=Crafting+Digital+Solutions;Building+Scalable+Web+Apps;From+Idea+to+Production;Always+Innovating" alt="Crafting digital solutions — building scalable web apps — from idea to production — always innovating" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=tumit-h-r-75&label=Profile+Views&color=701A3D&style=flat-square" alt="Profile views" />
-<a href="https://github.com/tumit-h-r-75?tab=followers"><img src="https://img.shields.io/github/followers/tumit-h-r-75?label=Followers&style=flat-square&color=701A3D&labelColor=555555&logo=github&logoColor=E5B5C7" alt="GitHub followers" /></a>
-<a href="https://github.com/tumit-h-r-75?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?label=Repositories&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftumit-h-r-75&style=flat-square&color=701A3D&labelColor=555555" alt="Public repositories" /></a>
+<img src="https://hits.sh/github.com/tumit-h-r-75.svg?label=Profile%20Views&style=flat-square&color=3d6300&labelColor=111111&extraCount=173" alt="Profile views" />
+<a href="https://github.com/tumit-h-r-75?tab=followers"><img src="https://img.shields.io/github/followers/tumit-h-r-75?label=Followers&style=flat-square&color=3D6300&labelColor=111111&logo=github&logoColor=9AE600" alt="GitHub followers" /></a>
+<a href="https://github.com/tumit-h-r-75?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?label=Repositories&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftumit-h-r-75&style=flat-square&color=3D6300&labelColor=111111" alt="Public repositories" /></a>
 
 <sub>
 
@@ -119,7 +119,7 @@ Full-stack app to help users find compatible roommates.<br/>
 <img src="assets/headers/06-contributions.svg" width="100%" alt="06 — Contributions" />
 
 <p align="center">
-  <img src="profile-3d-contrib/profile-burgundy.svg" width="100%" alt="3D contribution calendar built from my real GitHub activity" />
+  <img src="profile-3d-contrib/profile-theme.svg" width="100%" alt="3D contribution calendar built from my real GitHub activity" />
 </p>
 
 <p align="center"><sub>Rebuilt every day from my real GitHub contribution data by a GitHub Action.</sub></p>
@@ -130,12 +130,12 @@ Full-stack app to help users find compatible roommates.<br/>
 <img src="assets/headers/07-stats.svg" width="100%" alt="07 — GitHub Stats" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tumit-h-r-75&show_icons=true&rank_icon=github&bg_color=10070C&title_color=E5B5C7&icon_color=C77B9B&text_color=F8F0F3&ring_color=C77B9B&border_color=451126&border_radius=14" height="170" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tumit-h-r-75&layout=compact&langs_count=8&bg_color=10070C&title_color=E5B5C7&text_color=F8F0F3&border_color=451126&border_radius=14" height="170" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tumit-h-r-75&show_icons=true&rank_icon=github&bg_color=0B0F0A&title_color=9AE600&icon_color=9AE600&text_color=E6EDE0&ring_color=9AE600&border_color=1E2A18&border_radius=14" height="170" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tumit-h-r-75&layout=compact&langs_count=8&bg_color=0B0F0A&title_color=9AE600&text_color=E6EDE0&border_color=1E2A18&border_radius=14" height="170" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tumit-h-r-75&background=10070C&border=451126&stroke=451126&ring=C77B9B&fire=E5B5C7&currStreakNum=F8F0F3&sideNums=F8F0F3&currStreakLabel=E5B5C7&sideLabels=C77B9B&dates=B8949F&border_radius=14" width="70%" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=tumit-h-r-75&background=0B0F0A&border=1E2A18&stroke=1E2A18&ring=9AE600&fire=BBF451&currStreakNum=F2F6EE&sideNums=F2F6EE&currStreakLabel=9AE600&sideLabels=BBF451&dates=8E9A88&border_radius=14" width="70%" alt="GitHub streak" />
 </p>
 
 <details>

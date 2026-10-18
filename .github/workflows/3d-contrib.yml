@@ -8,7 +8,7 @@ on:
     branches:
       - main
     paths:
-      - .github/3d-contrib-burgundy.json
+      - .github/3d-contrib-theme.json
       - .github/workflows/3d-contrib.yml
 
 permissions:
@@ -24,12 +24,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-      - name: Burgundy themed graph (profile-burgundy.svg)
+      - name: Themed graph (profile-theme.svg)
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: .github/3d-contrib-burgundy.json
+          SETTING_JSON: .github/3d-contrib-theme.json
       - name: Commit & push generated SVGs
         run: |
           git config user.name github-actions

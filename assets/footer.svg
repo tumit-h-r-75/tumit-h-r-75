@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-labelledby="thf-t">
+<title id="thf-t">Tumit Hasan — designed and built with intention. Jashore, Bangladesh.</title>
+<style>
+@keyframes thf-draw{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
+@keyframes thf-rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+@keyframes thf-beat{0%,100%{transform:scale(1)}50%{transform:scale(1.35)}}
+.thf-wave{stroke-dasharray:1;animation:thf-draw 2.4s cubic-bezier(.5,0,.2,1) .2s both}
+.thf-in{animation:thf-rise .9s cubic-bezier(.2,.7,.2,1) .4s both}
+.thf-beat{transform-origin:600px 103px;animation:thf-beat 1.6s ease-in-out infinite}
+@media (prefers-reduced-motion: reduce){.a,.a *{animation:none!important}.motion{display:none}}
+</style>
+<defs>
+  <clipPath id="thf-clip"><rect width="1200" height="150" rx="22"/></clipPath>
+  <linearGradient id="thf-bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#190B12"/><stop offset="1" stop-color="#10070C"/></linearGradient>
+  <linearGradient id="thf-wave-g" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#701A3D" stop-opacity="0"/><stop offset=".35" stop-color="#C77B9B"/><stop offset=".65" stop-color="#E5B5C7"/><stop offset="1" stop-color="#701A3D" stop-opacity="0"/>
+  </linearGradient>
+  <radialGradient id="thf-glow"><stop offset="0" stop-color="#701A3D" stop-opacity=".55"/><stop offset="1" stop-color="#701A3D" stop-opacity="0"/></radialGradient>
+  <pattern id="thf-grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#F8F0F3" stroke-opacity=".035" stroke-width=".6"/></pattern>
+  <path id="thf-wave-p" d="M-10,96 C160,70 300,118 470,92 S770,64 930,90 S1110,118 1210,80"/>
+</defs>
+<g clip-path="url(#thf-clip)">
+  <rect width="1200" height="150" fill="url(#thf-bg)"/>
+  <rect width="1200" height="150" fill="url(#thf-grid)"/>
+  <ellipse cx="600" cy="150" rx="420" ry="90" fill="url(#thf-glow)"/>
+  <g class="a" fill="none">
+    <path class="thf-wave" pathLength="1" d="M-10,96 C160,70 300,118 470,92 S770,64 930,90 S1110,118 1210,80" stroke="url(#thf-wave-g)" stroke-width="1.4" opacity=".55"/>
+    <circle r="2.6" fill="#F8F0F3" class="motion"><animateMotion dur="8s" begin="2.6s" repeatCount="indefinite"><mpath href="#thf-wave-p"/></animateMotion></circle>
+  </g>
+  <g class="a"><g class="thf-in">
+    <text x="600" y="62" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="30" font-weight="700" fill="#F8F0F3">Tumit Hasan</text>
+    <text x="600" y="132" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="11.5" letter-spacing="3" fill="#B8949F">DESIGNED &amp; BUILT WITH INTENTION  ·  JASHORE, BANGLADESH</text>
+  </g></g>
+  <g class="a"><path class="thf-beat" d="M600 110.5l-7.2-7a4.3 4.3 0 0 1 6.1-6.1l1.1 1.1 1.1-1.1a4.3 4.3 0 0 1 6.1 6.1z" fill="#C77B9B"/></g>
+</g>
+<rect x=".75" y=".75" width="1198.5" height="148.5" rx="21.5" fill="none" stroke="#451126" stroke-width="1.5"/>
+</svg>

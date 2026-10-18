@@ -1,17 +1,40 @@
-<svg width="320" height="36" viewBox="0 0 320 36" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="g01" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00D4FF"/>
-      <stop offset="100%" stop-color="#0D98BA" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
-  <g opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.05s" fill="freeze"/>
-    <circle cx="16" cy="18" r="15" fill="#0D98BA" fill-opacity="0.15" stroke="#00D4FF" stroke-width="1.3"/>
-    <text x="16" y="22.5" font-family="'Courier New', Consolas, monospace" font-size="12" font-weight="700" text-anchor="middle" fill="#00D4FF">01</text>
-    <text x="40" y="23" font-family="system-ui, 'Segoe UI', sans-serif" font-size="13" font-weight="800" letter-spacing="3" fill="#8FA3AD">PROFILE</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="64" viewBox="0 0 820 64" role="img" aria-labelledby="ths01-t">
+<title id="ths01-t">01 — About Me</title>
+<style>
+@keyframes ths01-rise{from{opacity:0;transform:translateX(-10px)}to{opacity:1;transform:none}}
+@keyframes ths01-draw{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
+@keyframes ths01-run{0%{transform:translateX(0);opacity:0}10%,85%{opacity:1}100%{transform:translateX(569px);opacity:0}}
+@keyframes ths01-sweep{0%{transform:translateX(0)}55%,100%{transform:translateX(1120px)}}
+.ths01-in{animation:ths01-rise .7s cubic-bezier(.2,.7,.2,1) .1s both}
+.ths01-line{stroke-dasharray:1;animation:ths01-draw 1.2s cubic-bezier(.6,0,.2,1) .4s both}
+.ths01-run{animation:ths01-run 4.5s ease-in-out 1.6s infinite}
+.ths01-sweep{animation:ths01-sweep 8s ease-in-out 1s infinite}
+@media (prefers-reduced-motion: reduce){.a,.a *{animation:none!important}.motion{display:none}}
+</style>
+<defs>
+  <clipPath id="ths01-clip"><rect width="820" height="64" rx="14"/></clipPath>
+  <linearGradient id="ths01-bg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#190B12"/><stop offset="1" stop-color="#10070C"/></linearGradient>
+  <radialGradient id="ths01-glow"><stop offset="0" stop-color="#701A3D" stop-opacity=".6"/><stop offset="1" stop-color="#701A3D" stop-opacity="0"/></radialGradient>
+  <pattern id="ths01-grid" width="16" height="16" patternUnits="userSpaceOnUse"><path d="M16 0H0V16" fill="none" stroke="#F8F0F3" stroke-opacity=".04" stroke-width=".6"/></pattern>
+  <linearGradient id="ths01-ln" gradientUnits="userSpaceOnUse" x1="217" y1="0" x2="790" y2="0"><stop offset="0" stop-color="#C77B9B"/><stop offset="1" stop-color="#C77B9B" stop-opacity=".1"/></linearGradient>
+  <linearGradient id="ths01-sheen" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#F8F0F3" stop-opacity="0"/><stop offset=".5" stop-color="#F8F0F3" stop-opacity=".06"/><stop offset="1" stop-color="#F8F0F3" stop-opacity="0"/></linearGradient>
+</defs>
+<g clip-path="url(#ths01-clip)">
+  <rect width="820" height="64" fill="url(#ths01-bg)"/>
+  <rect width="820" height="64" fill="url(#ths01-grid)"/>
+  <circle cx="36" cy="32" r="90" fill="url(#ths01-glow)"/>
+  <g class="a" transform="skewX(-18)"><rect class="ths01-sweep" x="-260" y="0" width="160" height="64" fill="url(#ths01-sheen)"/></g>
+  <rect x="12" y="10" width="44" height="44" rx="12" fill="#10070C" stroke="#701A3D" stroke-width="1.2"/>
+  <g transform="translate(22 20) scale(1.0)" fill="none" stroke="#E5B5C7" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21c0-4.4 3.6-7 8-7s8 2.6 8 7"/></g>
+  <g class="a"><g class="ths01-in">
+    <text x="78" y="26" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="11" letter-spacing="3" fill="#C77B9B">01<tspan fill="#B8949F" dx="8">/  PROFILE</tspan></text>
+    <text x="77" y="50" font-family="Georgia,'Times New Roman',serif" font-size="24" font-weight="700" fill="#F8F0F3">About Me</text>
+  </g></g>
+  <g class="a">
+    <path class="ths01-line" pathLength="1" d="M217 41H790" stroke="url(#ths01-ln)" stroke-width="1.2" fill="none"/>
+    <rect x="786" y="37" width="8" height="8" transform="rotate(45 790 41)" fill="#C77B9B"/>
+    <circle class="ths01-run motion" cx="217" cy="41" r="2.5" fill="#F8F0F3"/>
   </g>
-  <rect x="118.4" y="17" width="0" height="2" fill="url(#g01)">
-    <animate attributeName="width" from="0" to="195.6" dur="0.7s" begin="0.35s" fill="freeze"/>
-  </rect>
+</g>
+<rect x=".6" y=".6" width="818.8" height="62.8" rx="13.4" fill="none" stroke="#451126" stroke-width="1.2"/>
 </svg>
